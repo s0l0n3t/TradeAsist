@@ -1,6 +1,13 @@
+using System.Data;
+using System.Data.SQLite;
+using System.Drawing;
+using System;
+
+
 namespace TradeAsist
 {
     internal static class Program
+       
     {
         /// <summary>
         ///  The main entry point for the application.
@@ -12,6 +19,10 @@ namespace TradeAsist
             // see https://aka.ms/applicationconfiguration.
             ApplicationConfiguration.Initialize();
             Application.Run(new Form1());
+
+
         }
+        
+        
     }
 }
