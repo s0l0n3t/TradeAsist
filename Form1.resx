@@ -59,10 +59,10 @@
   </resheader>
   <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
   <data name="dataGridView1.Location" type="System.Drawing.Point, System.Drawing">
-    <value>136, 332</value>
+    <value>12, 274</value>
   </data>
   <data name="dataGridView1.Size" type="System.Drawing.Size, System.Drawing">
-    <value>502, 288</value>
+    <value>594, 288</value>
   </data>
   <assembly alias="mscorlib" name="mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
   <data name="dataGridView1.TabIndex" type="System.Int32, mscorlib">
@@ -78,20 +78,23 @@
     <value>$this</value>
   </data>
   <data name="&gt;&gt;dataGridView1.ZOrder" xml:space="preserve">
-    <value>8</value>
+    <value>12</value>
   </data>
   <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
   <data name="button1.AutoSizeMode" type="System.Windows.Forms.AutoSizeMode, System.Windows.Forms">
     <value>GrowAndShrink</value>
   </data>
+  <data name="button1.BackgroundImageLayout" type="System.Windows.Forms.ImageLayout, System.Windows.Forms">
+    <value>Center</value>
+  </data>
   <data name="button1.FlatStyle" type="System.Windows.Forms.FlatStyle, System.Windows.Forms">
     <value>Flat</value>
   </data>
   <data name="button1.Location" type="System.Drawing.Point, System.Drawing">
-    <value>351, 74</value>
+    <value>145, 195</value>
   </data>
   <data name="button1.Size" type="System.Drawing.Size, System.Drawing">
-    <value>48, 48</value>
+    <value>32, 32</value>
   </data>
   <data name="button1.TabIndex" type="System.Int32, mscorlib">
     <value>1</value>
@@ -106,16 +109,16 @@
     <value>$this</value>
   </data>
   <data name="&gt;&gt;button1.ZOrder" xml:space="preserve">
-    <value>7</value>
+    <value>11</value>
   </data>
   <data name="button2.FlatStyle" type="System.Windows.Forms.FlatStyle, System.Windows.Forms">
     <value>Flat</value>
   </data>
   <data name="button2.Location" type="System.Drawing.Point, System.Drawing">
-    <value>375, 152</value>
+    <value>612, 274</value>
   </data>
   <data name="button2.Size" type="System.Drawing.Size, System.Drawing">
-    <value>24, 24</value>
+    <value>32, 27</value>
   </data>
   <data name="button2.TabIndex" type="System.Int32, mscorlib">
     <value>2</value>
@@ -130,49 +133,2638 @@
     <value>$this</value>
   </data>
   <data name="&gt;&gt;button2.ZOrder" xml:space="preserve">
-    <value>6</value>
-  </data>
-  <data name="button3.Location" type="System.Drawing.Point, System.Drawing">
-    <value>12, 332</value>
-  </data>
-  <data name="button3.Size" type="System.Drawing.Size, System.Drawing">
-    <value>118, 66</value>
-  </data>
-  <data name="button3.TabIndex" type="System.Int32, mscorlib">
-    <value>3</value>
-  </data>
-  <data name="button3.Text" xml:space="preserve">
-    <value>button3</value>
-  </data>
-  <data name="&gt;&gt;button3.Name" xml:space="preserve">
-    <value>button3</value>
-  </data>
-  <data name="&gt;&gt;button3.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Button, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;button3.Parent" xml:space="preserve">
-    <value>$this</value>
-  </data>
-  <data name="&gt;&gt;button3.ZOrder" xml:space="preserve">
-    <value>5</value>
+    <value>10</value>
   </data>
   <data name="customComboBox1.Font" type="System.Drawing.Font, System.Drawing">
     <value>Times New Roman, 11.25pt</value>
   </data>
   <data name="customComboBox1.Items" xml:space="preserve">
-    <value>shard</value>
+    <value>Abyss Gem</value>
   </data>
   <data name="customComboBox1.Items1" xml:space="preserve">
-    <value>md</value>
+    <value>Abyss Jamadar</value>
   </data>
   <data name="customComboBox1.Items2" xml:space="preserve">
-    <value>chd</value>
+    <value>Abyssal Breathe</value>
   </data>
   <data name="customComboBox1.Items3" xml:space="preserve">
-    <value>raptor</value>
+    <value>Accessory box</value>
   </data>
   <data name="customComboBox1.Items4" xml:space="preserve">
-    <value>ib</value>
+    <value>Adaga (selfname)</value>
+  </data>
+  <data name="customComboBox1.Items5" xml:space="preserve">
+    <value>Aegis</value>
+  </data>
+  <data name="customComboBox1.Items6" xml:space="preserve">
+    <value>Agate Earring</value>
+  </data>
+  <data name="customComboBox1.Items7" xml:space="preserve">
+    <value>Agate Ring</value>
+  </data>
+  <data name="customComboBox1.Items8" xml:space="preserve">
+    <value>Ahgada</value>
+  </data>
+  <data name="customComboBox1.Items9" xml:space="preserve">
+    <value>Akara's Agate Earrings</value>
+  </data>
+  <data name="customComboBox1.Items10" xml:space="preserve">
+    <value>Akara's Agility Necklace</value>
+  </data>
+  <data name="customComboBox1.Items11" xml:space="preserve">
+    <value>Akara's Black Dragon Necklace</value>
+  </data>
+  <data name="customComboBox1.Items12" xml:space="preserve">
+    <value>Akara's Cockatrice Earrings</value>
+  </data>
+  <data name="customComboBox1.Items13" xml:space="preserve">
+    <value>Akara's Crystal Belt</value>
+  </data>
+  <data name="customComboBox1.Items14" xml:space="preserve">
+    <value>Akara's Crystal Earrings</value>
+  </data>
+  <data name="customComboBox1.Items15" xml:space="preserve">
+    <value>Akara's Elemental Pendant</value>
+  </data>
+  <data name="customComboBox1.Items16" xml:space="preserve">
+    <value>Akara's Elf Belt</value>
+  </data>
+  <data name="customComboBox1.Items17" xml:space="preserve">
+    <value>Akara's Elf Metal Earrings</value>
+  </data>
+  <data name="customComboBox1.Items18" xml:space="preserve">
+    <value>Akara's Flame Ring</value>
+  </data>
+  <data name="customComboBox1.Items19" xml:space="preserve">
+    <value>Akara's Hero's Valor</value>
+  </data>
+  <data name="customComboBox1.Items20" xml:space="preserve">
+    <value>Akara's Imir Ring</value>
+  </data>
+  <data name="customComboBox1.Items21" xml:space="preserve">
+    <value>Akara's Iron Belt</value>
+  </data>
+  <data name="customComboBox1.Items22" xml:space="preserve">
+    <value>Akara's Iron Necklace</value>
+  </data>
+  <data name="customComboBox1.Items23" xml:space="preserve">
+    <value>Akara's Legionnaire Band</value>
+  </data>
+  <data name="customComboBox1.Items24" xml:space="preserve">
+    <value>Akara's Lich King's Earring</value>
+  </data>
+  <data name="customComboBox1.Items25" xml:space="preserve">
+    <value>Akara's Lillime Earrings</value>
+  </data>
+  <data name="customComboBox1.Items26" xml:space="preserve">
+    <value>Akara's Mage Earrings</value>
+  </data>
+  <data name="customComboBox1.Items27" xml:space="preserve">
+    <value>Akara's Minotaur Earrings</value>
+  </data>
+  <data name="customComboBox1.Items28" xml:space="preserve">
+    <value>Akara's Opal Earrings</value>
+  </data>
+  <data name="customComboBox1.Items29" xml:space="preserve">
+    <value>Akara's Platinum Earrings</value>
+  </data>
+  <data name="customComboBox1.Items30" xml:space="preserve">
+    <value>Akara's Priest Earrings</value>
+  </data>
+  <data name="customComboBox1.Items31" xml:space="preserve">
+    <value>Akara's Ring of Courage</value>
+  </data>
+  <data name="customComboBox1.Items32" xml:space="preserve">
+    <value>Akara's Ring of Life</value>
+  </data>
+  <data name="customComboBox1.Items33" xml:space="preserve">
+    <value>Akara's Rogue Earrings</value>
+  </data>
+  <data name="customComboBox1.Items34" xml:space="preserve">
+    <value>Akara's Secret Silver Earrings</value>
+  </data>
+  <data name="customComboBox1.Items35" xml:space="preserve">
+    <value>Akara's Shio Tears</value>
+  </data>
+  <data name="customComboBox1.Items36" xml:space="preserve">
+    <value>Akara's Silver Earrings</value>
+  </data>
+  <data name="customComboBox1.Items37" xml:space="preserve">
+    <value>Akara's Skeleton Belt</value>
+  </data>
+  <data name="customComboBox1.Items38" xml:space="preserve">
+    <value>Akara's Strength Necklace</value>
+  </data>
+  <data name="customComboBox1.Items39" xml:space="preserve">
+    <value>Akara's String of Skulls</value>
+  </data>
+  <data name="customComboBox1.Items40" xml:space="preserve">
+    <value>Akara's Warrior Earrings</value>
+  </data>
+  <data name="customComboBox1.Items41" xml:space="preserve">
+    <value>Akara's White Silver Earrings</value>
+  </data>
+  <data name="customComboBox1.Items42" xml:space="preserve">
+    <value>Alkeradeua's Essence</value>
+  </data>
+  <data name="customComboBox1.Items43" xml:space="preserve">
+    <value>Amulet of Curse</value>
+  </data>
+  <data name="customComboBox1.Items44" xml:space="preserve">
+    <value>Amulet of Dexterity</value>
+  </data>
+  <data name="customComboBox1.Items45" xml:space="preserve">
+    <value>Amulet of Goddess</value>
+  </data>
+  <data name="customComboBox1.Items46" xml:space="preserve">
+    <value>Amulet of Health</value>
+  </data>
+  <data name="customComboBox1.Items47" xml:space="preserve">
+    <value>Amulet of Intelligence</value>
+  </data>
+  <data name="customComboBox1.Items48" xml:space="preserve">
+    <value>Amulet of Magic Power</value>
+  </data>
+  <data name="customComboBox1.Items49" xml:space="preserve">
+    <value>Amulet of Strength</value>
+  </data>
+  <data name="customComboBox1.Items50" xml:space="preserve">
+    <value>Ancient Dragon Tribe Agent's Blessed Stone</value>
+  </data>
+  <data name="customComboBox1.Items51" xml:space="preserve">
+    <value>Ancient Dragon Tribe Assassinator's Blessed Stone</value>
+  </data>
+  <data name="customComboBox1.Items52" xml:space="preserve">
+    <value>Ancient Dragon Tribe Bowman's Blessed Stone</value>
+  </data>
+  <data name="customComboBox1.Items53" xml:space="preserve">
+    <value>Ancient Dragon Tribe Fighter's Blessed Stone</value>
+  </data>
+  <data name="customComboBox1.Items54" xml:space="preserve">
+    <value>Ancient Dragon Tribe Fire Wizard's Blessed Stone</value>
+  </data>
+  <data name="customComboBox1.Items55" xml:space="preserve">
+    <value>Ancient Dragon Tribe Ice Wizard's Blessed Stone</value>
+  </data>
+  <data name="customComboBox1.Items56" xml:space="preserve">
+    <value>Ancient Dragon Tribe Spearman's Blessed Stone</value>
+  </data>
+  <data name="customComboBox1.Items57" xml:space="preserve">
+    <value>Ancient Dragon Tribe Spiritual Wizard's Blessed Stone</value>
+  </data>
+  <data name="customComboBox1.Items58" xml:space="preserve">
+    <value>Ancient Dragon Tribe Swordsman's Blessed Stone</value>
+  </data>
+  <data name="customComboBox1.Items59" xml:space="preserve">
+    <value>Ancient Dragon Tribe Therapist's Blessed Stone</value>
+  </data>
+  <data name="customComboBox1.Items60" xml:space="preserve">
+    <value>Anniversary Emblem</value>
+  </data>
+  <data name="customComboBox1.Items61" xml:space="preserve">
+    <value>Antalya Ring</value>
+  </data>
+  <data name="customComboBox1.Items62" xml:space="preserve">
+    <value>Apples of Moradon</value>
+  </data>
+  <data name="customComboBox1.Items63" xml:space="preserve">
+    <value>Ararat Belt</value>
+  </data>
+  <data name="customComboBox1.Items64" xml:space="preserve">
+    <value>Ararat Ring</value>
+  </data>
+  <data name="customComboBox1.Items65" xml:space="preserve">
+    <value>Ararat's Pendant</value>
+  </data>
+  <data name="customComboBox1.Items66" xml:space="preserve">
+    <value>Arrow of selfname</value>
+  </data>
+  <data name="customComboBox1.Items67" xml:space="preserve">
+    <value>Ascalon</value>
+  </data>
+  <data name="customComboBox1.Items68" xml:space="preserve">
+    <value>Assassin Dagger</value>
+  </data>
+  <data name="customComboBox1.Items69" xml:space="preserve">
+    <value>Assassin Earring</value>
+  </data>
+  <data name="customComboBox1.Items70" xml:space="preserve">
+    <value>Assassin Ring</value>
+  </data>
+  <data name="customComboBox1.Items71" xml:space="preserve">
+    <value>Avedon</value>
+  </data>
+  <data name="customComboBox1.Items72" xml:space="preserve">
+    <value>Azagai</value>
+  </data>
+  <data name="customComboBox1.Items73" xml:space="preserve">
+    <value>Azagai (selfname)</value>
+  </data>
+  <data name="customComboBox1.Items74" xml:space="preserve">
+    <value>Baal</value>
+  </data>
+  <data name="customComboBox1.Items75" xml:space="preserve">
+    <value>Bamboo Bow</value>
+  </data>
+  <data name="customComboBox1.Items76" xml:space="preserve">
+    <value>Belt of Curse</value>
+  </data>
+  <data name="customComboBox1.Items77" xml:space="preserve">
+    <value>Belt of Dexterity</value>
+  </data>
+  <data name="customComboBox1.Items78" xml:space="preserve">
+    <value>Belt of Harpy</value>
+  </data>
+  <data name="customComboBox1.Items79" xml:space="preserve">
+    <value>Belt of Intelligence</value>
+  </data>
+  <data name="customComboBox1.Items80" xml:space="preserve">
+    <value>Belt of Life</value>
+  </data>
+  <data name="customComboBox1.Items81" xml:space="preserve">
+    <value>Belt of Quickness</value>
+  </data>
+  <data name="customComboBox1.Items82" xml:space="preserve">
+    <value>Belt of Strength</value>
+  </data>
+  <data name="customComboBox1.Items83" xml:space="preserve">
+    <value>Berserk Orc Devastator</value>
+  </data>
+  <data name="customComboBox1.Items84" xml:space="preserve">
+    <value>Bipennis</value>
+  </data>
+  <data name="customComboBox1.Items85" xml:space="preserve">
+    <value>Black Dragon Necklace</value>
+  </data>
+  <data name="customComboBox1.Items86" xml:space="preserve">
+    <value>Black Gem</value>
+  </data>
+  <data name="customComboBox1.Items87" xml:space="preserve">
+    <value>Black Treasure Chest</value>
+  </data>
+  <data name="customComboBox1.Items88" xml:space="preserve">
+    <value>Blade Axe</value>
+  </data>
+  <data name="customComboBox1.Items89" xml:space="preserve">
+    <value>Blessing of Logos</value>
+  </data>
+  <data name="customComboBox1.Items90" xml:space="preserve">
+    <value>Bloody Bow</value>
+  </data>
+  <data name="customComboBox1.Items91" xml:space="preserve">
+    <value>Bloody dagger</value>
+  </data>
+  <data name="customComboBox1.Items92" xml:space="preserve">
+    <value>Bloody Mace</value>
+  </data>
+  <data name="customComboBox1.Items93" xml:space="preserve">
+    <value>Bloody Shield</value>
+  </data>
+  <data name="customComboBox1.Items94" xml:space="preserve">
+    <value>Bloody Sword</value>
+  </data>
+  <data name="customComboBox1.Items95" xml:space="preserve">
+    <value>Bloody two-hand Sword</value>
+  </data>
+  <data name="customComboBox1.Items96" xml:space="preserve">
+    <value>Blue Dragon Necklace</value>
+  </data>
+  <data name="customComboBox1.Items97" xml:space="preserve">
+    <value>Blue Gem</value>
+  </data>
+  <data name="customComboBox1.Items98" xml:space="preserve">
+    <value>Blue Treasure Chest</value>
+  </data>
+  <data name="customComboBox1.Items99" xml:space="preserve">
+    <value>Body Belt</value>
+  </data>
+  <data name="customComboBox1.Items100" xml:space="preserve">
+    <value>Bone Breaker</value>
+  </data>
+  <data name="customComboBox1.Items101" xml:space="preserve">
+    <value>Bone of Devil</value>
+  </data>
+  <data name="customComboBox1.Items102" xml:space="preserve">
+    <value>Book of wisdom (Fire)</value>
+  </data>
+  <data name="customComboBox1.Items103" xml:space="preserve">
+    <value>Book of wisdom (Ice)</value>
+  </data>
+  <data name="customComboBox1.Items104" xml:space="preserve">
+    <value>Book of wisdom (Lightning)</value>
+  </data>
+  <data name="customComboBox1.Items105" xml:space="preserve">
+    <value>Boots of Trial</value>
+  </data>
+  <data name="customComboBox1.Items106" xml:space="preserve">
+    <value>Bow (item)</value>
+  </data>
+  <data name="customComboBox1.Items107" xml:space="preserve">
+    <value>Broken Maul of Grave Reaper</value>
+  </data>
+  <data name="customComboBox1.Items108" xml:space="preserve">
+    <value>Broken snake's scale</value>
+  </data>
+  <data name="customComboBox1.Items109" xml:space="preserve">
+    <value>Bronze Belt</value>
+  </data>
+  <data name="customComboBox1.Items110" xml:space="preserve">
+    <value>Bronze Earring</value>
+  </data>
+  <data name="customComboBox1.Items111" xml:space="preserve">
+    <value>Buju</value>
+  </data>
+  <data name="customComboBox1.Items112" xml:space="preserve">
+    <value>Buju (selfname)</value>
+  </data>
+  <data name="customComboBox1.Items113" xml:space="preserve">
+    <value>Bulture Horn</value>
+  </data>
+  <data name="customComboBox1.Items114" xml:space="preserve">
+    <value>Candy Cane Belt</value>
+  </data>
+  <data name="customComboBox1.Items115" xml:space="preserve">
+    <value>Captain's Emergency Dirk</value>
+  </data>
+  <data name="customComboBox1.Items116" xml:space="preserve">
+    <value>Castellan's Dignity</value>
+  </data>
+  <data name="customComboBox1.Items117" xml:space="preserve">
+    <value>Castellan's teachings</value>
+  </data>
+  <data name="customComboBox1.Items118" xml:space="preserve">
+    <value>Celestial Dragon Halberd</value>
+  </data>
+  <data name="customComboBox1.Items119" xml:space="preserve">
+    <value>Chaos Crystal</value>
+  </data>
+  <data name="customComboBox1.Items120" xml:space="preserve">
+    <value>Chaotic Staff</value>
+  </data>
+  <data name="customComboBox1.Items121" xml:space="preserve">
+    <value>Chitin Armor Pads</value>
+  </data>
+  <data name="customComboBox1.Items122" xml:space="preserve">
+    <value>Chitin Armor Pauldron</value>
+  </data>
+  <data name="customComboBox1.Items123" xml:space="preserve">
+    <value>Chitin Boots</value>
+  </data>
+  <data name="customComboBox1.Items124" xml:space="preserve">
+    <value>Chitin Bow</value>
+  </data>
+  <data name="customComboBox1.Items125" xml:space="preserve">
+    <value>Chitin Gauntlets</value>
+  </data>
+  <data name="customComboBox1.Items126" xml:space="preserve">
+    <value>Chitin Helmet</value>
+  </data>
+  <data name="customComboBox1.Items127" xml:space="preserve">
+    <value>Chitin Shell Boots</value>
+  </data>
+  <data name="customComboBox1.Items128" xml:space="preserve">
+    <value>Chitin Shell Gauntlets</value>
+  </data>
+  <data name="customComboBox1.Items129" xml:space="preserve">
+    <value>Chitin Shell Helmet</value>
+  </data>
+  <data name="customComboBox1.Items130" xml:space="preserve">
+    <value>Chitin Shell Pads</value>
+  </data>
+  <data name="customComboBox1.Items131" xml:space="preserve">
+    <value>Chitin Shell Pauldron</value>
+  </data>
+  <data name="customComboBox1.Items132" xml:space="preserve">
+    <value>Chitin Shield</value>
+  </data>
+  <data name="customComboBox1.Items133" xml:space="preserve">
+    <value>Christmas Cross</value>
+  </data>
+  <data name="customComboBox1.Items134" xml:space="preserve">
+    <value>Clarence's Training Bow</value>
+  </data>
+  <data name="customComboBox1.Items135" xml:space="preserve">
+    <value>Clarence's Training Dirk</value>
+  </data>
+  <data name="customComboBox1.Items136" xml:space="preserve">
+    <value>Claw of Devil</value>
+  </data>
+  <data name="customComboBox1.Items137" xml:space="preserve">
+    <value>Cleaver</value>
+  </data>
+  <data name="customComboBox1.Items138" xml:space="preserve">
+    <value>Cleaver Axe</value>
+  </data>
+  <data name="customComboBox1.Items139" xml:space="preserve">
+    <value>Cleric Earring</value>
+  </data>
+  <data name="customComboBox1.Items140" xml:space="preserve">
+    <value>Cleric Pendant</value>
+  </data>
+  <data name="customComboBox1.Items141" xml:space="preserve">
+    <value>Coarse Ground Bone</value>
+  </data>
+  <data name="customComboBox1.Items142" xml:space="preserve">
+    <value>Cockatrice's Earrings</value>
+  </data>
+  <data name="customComboBox1.Items143" xml:space="preserve">
+    <value>Cold-Hearted Dagger</value>
+  </data>
+  <data name="customComboBox1.Items144" xml:space="preserve">
+    <value>Colmicola's Essence</value>
+  </data>
+  <data name="customComboBox1.Items145" xml:space="preserve">
+    <value>Complete Boots</value>
+  </data>
+  <data name="customComboBox1.Items146" xml:space="preserve">
+    <value>Complete Glove</value>
+  </data>
+  <data name="customComboBox1.Items147" xml:space="preserve">
+    <value>Complete Helmet</value>
+  </data>
+  <data name="customComboBox1.Items148" xml:space="preserve">
+    <value>Complete Pants</value>
+  </data>
+  <data name="customComboBox1.Items149" xml:space="preserve">
+    <value>Complete Robe</value>
+  </data>
+  <data name="customComboBox1.Items150" xml:space="preserve">
+    <value>Crimson Boots</value>
+  </data>
+  <data name="customComboBox1.Items151" xml:space="preserve">
+    <value>Crimson Gloves</value>
+  </data>
+  <data name="customComboBox1.Items152" xml:space="preserve">
+    <value>Crimson Helmet</value>
+  </data>
+  <data name="customComboBox1.Items153" xml:space="preserve">
+    <value>Crimson Pants</value>
+  </data>
+  <data name="customComboBox1.Items154" xml:space="preserve">
+    <value>Crimson Robe</value>
+  </data>
+  <data name="customComboBox1.Items155" xml:space="preserve">
+    <value>Cross Bow</value>
+  </data>
+  <data name="customComboBox1.Items156" xml:space="preserve">
+    <value>Crossbow (item)</value>
+  </data>
+  <data name="customComboBox1.Items157" xml:space="preserve">
+    <value>Crystal Belt</value>
+  </data>
+  <data name="customComboBox1.Items158" xml:space="preserve">
+    <value>Crystal Earring</value>
+  </data>
+  <data name="customComboBox1.Items159" xml:space="preserve">
+    <value>Crystal Necklace</value>
+  </data>
+  <data name="customComboBox1.Items160" xml:space="preserve">
+    <value>Crystal Ring</value>
+  </data>
+  <data name="customComboBox1.Items161" xml:space="preserve">
+    <value>Cut Snake Tail</value>
+  </data>
+  <data name="customComboBox1.Items162" xml:space="preserve">
+    <value>Dagger (item)</value>
+  </data>
+  <data name="customComboBox1.Items163" xml:space="preserve">
+    <value>Dagger of selfname</value>
+  </data>
+  <data name="customComboBox1.Items164" xml:space="preserve">
+    <value>Dark Fragment of Envy</value>
+  </data>
+  <data name="customComboBox1.Items165" xml:space="preserve">
+    <value>Dark Fragment of Gluttony</value>
+  </data>
+  <data name="customComboBox1.Items166" xml:space="preserve">
+    <value>Dark Fragment of Greed</value>
+  </data>
+  <data name="customComboBox1.Items167" xml:space="preserve">
+    <value>Dark Fragment of Lust</value>
+  </data>
+  <data name="customComboBox1.Items168" xml:space="preserve">
+    <value>Dark Fragment of Pride</value>
+  </data>
+  <data name="customComboBox1.Items169" xml:space="preserve">
+    <value>Dark Fragment of Sloth</value>
+  </data>
+  <data name="customComboBox1.Items170" xml:space="preserve">
+    <value>Dark Fragment of Wrath</value>
+  </data>
+  <data name="customComboBox1.Items171" xml:space="preserve">
+    <value>Dark Knight Axe</value>
+  </data>
+  <data name="customComboBox1.Items172" xml:space="preserve">
+    <value>Dark Knight Crossbow</value>
+  </data>
+  <data name="customComboBox1.Items173" xml:space="preserve">
+    <value>Dark Knight Dagger</value>
+  </data>
+  <data name="customComboBox1.Items174" xml:space="preserve">
+    <value>Dark Knight Jamadar</value>
+  </data>
+  <data name="customComboBox1.Items175" xml:space="preserve">
+    <value>Dark Knight Mace</value>
+  </data>
+  <data name="customComboBox1.Items176" xml:space="preserve">
+    <value>Dark Knight Shield</value>
+  </data>
+  <data name="customComboBox1.Items177" xml:space="preserve">
+    <value>Dark Knight Spear</value>
+  </data>
+  <data name="customComboBox1.Items178" xml:space="preserve">
+    <value>Dark Vane</value>
+  </data>
+  <data name="customComboBox1.Items179" xml:space="preserve">
+    <value>DC Flash</value>
+  </data>
+  <data name="customComboBox1.Items180" xml:space="preserve">
+    <value>Dead Priest Ashes</value>
+  </data>
+  <data name="customComboBox1.Items181" xml:space="preserve">
+    <value>Deep Scar</value>
+  </data>
+  <data name="customComboBox1.Items182" xml:space="preserve">
+    <value>Defender of the Lord</value>
+  </data>
+  <data name="customComboBox1.Items183" xml:space="preserve">
+    <value>Determined decision</value>
+  </data>
+  <data name="customComboBox1.Items184" xml:space="preserve">
+    <value>Diamond Ring</value>
+  </data>
+  <data name="customComboBox1.Items185" xml:space="preserve">
+    <value>Dinged Orc Tribe Shield</value>
+  </data>
+  <data name="customComboBox1.Items186" xml:space="preserve">
+    <value>Double Axe</value>
+  </data>
+  <data name="customComboBox1.Items187" xml:space="preserve">
+    <value>Double Dragon Claw Jamadar</value>
+  </data>
+  <data name="customComboBox1.Items188" xml:space="preserve">
+    <value>Double Possession</value>
+  </data>
+  <data name="customComboBox1.Items189" xml:space="preserve">
+    <value>Dragon Horn Shield</value>
+  </data>
+  <data name="customComboBox1.Items190" xml:space="preserve">
+    <value>Dragon Scale Armor Pants</value>
+  </data>
+  <data name="customComboBox1.Items191" xml:space="preserve">
+    <value>Dragon Scale Armor Top</value>
+  </data>
+  <data name="customComboBox1.Items192" xml:space="preserve">
+    <value>Dragon Scale Boots</value>
+  </data>
+  <data name="customComboBox1.Items193" xml:space="preserve">
+    <value>Dragon Scale Gauntlet</value>
+  </data>
+  <data name="customComboBox1.Items194" xml:space="preserve">
+    <value>Dragon Scale Helmet</value>
+  </data>
+  <data name="customComboBox1.Items195" xml:space="preserve">
+    <value>Draki Legion Mage Coat</value>
+  </data>
+  <data name="customComboBox1.Items196" xml:space="preserve">
+    <value>Draki Legion Mage Crown</value>
+  </data>
+  <data name="customComboBox1.Items197" xml:space="preserve">
+    <value>Draki Legion Mage Gloves</value>
+  </data>
+  <data name="customComboBox1.Items198" xml:space="preserve">
+    <value>Draki Legion Mage Leggings</value>
+  </data>
+  <data name="customComboBox1.Items199" xml:space="preserve">
+    <value>Draki Legion Mage Shoes</value>
+  </data>
+  <data name="customComboBox1.Items200" xml:space="preserve">
+    <value>Draki Legion Priest Coat</value>
+  </data>
+  <data name="customComboBox1.Items201" xml:space="preserve">
+    <value>Draki Legion Priest Crown</value>
+  </data>
+  <data name="customComboBox1.Items202" xml:space="preserve">
+    <value>Draki Legion Priest Gloves</value>
+  </data>
+  <data name="customComboBox1.Items203" xml:space="preserve">
+    <value>Draki Legion Priest Leggings</value>
+  </data>
+  <data name="customComboBox1.Items204" xml:space="preserve">
+    <value>Draki Legion Priest Shoes</value>
+  </data>
+  <data name="customComboBox1.Items205" xml:space="preserve">
+    <value>Draki Legion Rogue Boots</value>
+  </data>
+  <data name="customComboBox1.Items206" xml:space="preserve">
+    <value>Draki Legion Rogue Gauntlets</value>
+  </data>
+  <data name="customComboBox1.Items207" xml:space="preserve">
+    <value>Draki Legion Rogue Helm</value>
+  </data>
+  <data name="customComboBox1.Items208" xml:space="preserve">
+    <value>Draki Legion Rogue Pads</value>
+  </data>
+  <data name="customComboBox1.Items209" xml:space="preserve">
+    <value>Draki Legion Rogue Pauldrons</value>
+  </data>
+  <data name="customComboBox1.Items210" xml:space="preserve">
+    <value>Draki Legion Warrior Boots</value>
+  </data>
+  <data name="customComboBox1.Items211" xml:space="preserve">
+    <value>Draki Legion Warrior Gauntlets</value>
+  </data>
+  <data name="customComboBox1.Items212" xml:space="preserve">
+    <value>Draki Legion Warrior Helm</value>
+  </data>
+  <data name="customComboBox1.Items213" xml:space="preserve">
+    <value>Draki Legion Warrior Pads</value>
+  </data>
+  <data name="customComboBox1.Items214" xml:space="preserve">
+    <value>Draki Legion Warrior Pauldrons</value>
+  </data>
+  <data name="customComboBox1.Items215" xml:space="preserve">
+    <value>Draki's Pendant</value>
+  </data>
+  <data name="customComboBox1.Items216" xml:space="preserve">
+    <value>Dread Shield</value>
+  </data>
+  <data name="customComboBox1.Items217" xml:space="preserve">
+    <value>Dryad</value>
+  </data>
+  <data name="customComboBox1.Items218" xml:space="preserve">
+    <value>Durandal</value>
+  </data>
+  <data name="customComboBox1.Items219" xml:space="preserve">
+    <value>Eagle's Eye</value>
+  </data>
+  <data name="customComboBox1.Items220" xml:space="preserve">
+    <value>Earrings of the Cool-Headed King</value>
+  </data>
+  <data name="customComboBox1.Items221" xml:space="preserve">
+    <value>Earrings of the Great King</value>
+  </data>
+  <data name="customComboBox1.Items222" xml:space="preserve">
+    <value>Earrings of the Intelligent King</value>
+  </data>
+  <data name="customComboBox1.Items223" xml:space="preserve">
+    <value>Earrings of the Wise King</value>
+  </data>
+  <data name="customComboBox1.Items224" xml:space="preserve">
+    <value>Eerie Skull Cane</value>
+  </data>
+  <data name="customComboBox1.Items225" xml:space="preserve">
+    <value>Elemental Earring</value>
+  </data>
+  <data name="customComboBox1.Items226" xml:space="preserve">
+    <value>Elemental Necklace</value>
+  </data>
+  <data name="customComboBox1.Items227" xml:space="preserve">
+    <value>Elemental Pendant</value>
+  </data>
+  <data name="customComboBox1.Items228" xml:space="preserve">
+    <value>Elf Belt</value>
+  </data>
+  <data name="customComboBox1.Items229" xml:space="preserve">
+    <value>Elf Ring</value>
+  </data>
+  <data name="customComboBox1.Items230" xml:space="preserve">
+    <value>Elf-Metal Earring</value>
+  </data>
+  <data name="customComboBox1.Items231" xml:space="preserve">
+    <value>Elysium</value>
+  </data>
+  <data name="customComboBox1.Items232" xml:space="preserve">
+    <value>Ember candle</value>
+  </data>
+  <data name="customComboBox1.Items233" xml:space="preserve">
+    <value>Emerald Ring</value>
+  </data>
+  <data name="customComboBox1.Items234" xml:space="preserve">
+    <value>Enion Bow</value>
+  </data>
+  <data name="customComboBox1.Items235" xml:space="preserve">
+    <value>Exceptional Blade Axe</value>
+  </data>
+  <data name="customComboBox1.Items236" xml:space="preserve">
+    <value>Exceptional Boots of Trial</value>
+  </data>
+  <data name="customComboBox1.Items237" xml:space="preserve">
+    <value>Exceptional Deep Scar</value>
+  </data>
+  <data name="customComboBox1.Items238" xml:space="preserve">
+    <value>Exceptional Dragon Flight Boots</value>
+  </data>
+  <data name="customComboBox1.Items239" xml:space="preserve">
+    <value>Exceptional Dragon Flight Gauntlet</value>
+  </data>
+  <data name="customComboBox1.Items240" xml:space="preserve">
+    <value>Exceptional Dragon Flight Helmet</value>
+  </data>
+  <data name="customComboBox1.Items241" xml:space="preserve">
+    <value>Exceptional Dragon Flight Pad</value>
+  </data>
+  <data name="customComboBox1.Items242" xml:space="preserve">
+    <value>Exceptional Dragon Flight Pauldron</value>
+  </data>
+  <data name="customComboBox1.Items243" xml:space="preserve">
+    <value>Exceptional Gauntlet of Trial</value>
+  </data>
+  <data name="customComboBox1.Items244" xml:space="preserve">
+    <value>Exceptional Graham</value>
+  </data>
+  <data name="customComboBox1.Items245" xml:space="preserve">
+    <value>Exceptional Helmet of Trial</value>
+  </data>
+  <data name="customComboBox1.Items246" xml:space="preserve">
+    <value>Exceptional Impact</value>
+  </data>
+  <data name="customComboBox1.Items247" xml:space="preserve">
+    <value>Exceptional Iron Bow</value>
+  </data>
+  <data name="customComboBox1.Items248" xml:space="preserve">
+    <value>Exceptional Iron Impact</value>
+  </data>
+  <data name="customComboBox1.Items249" xml:space="preserve">
+    <value>Exceptional Mirage</value>
+  </data>
+  <data name="customComboBox1.Items250" xml:space="preserve">
+    <value>Exceptional Mythril Boots</value>
+  </data>
+  <data name="customComboBox1.Items251" xml:space="preserve">
+    <value>Exceptional Mythril Gauntlet</value>
+  </data>
+  <data name="customComboBox1.Items252" xml:space="preserve">
+    <value>Exceptional Mythril Helmet</value>
+  </data>
+  <data name="customComboBox1.Items253" xml:space="preserve">
+    <value>Exceptional Mythril Pad</value>
+  </data>
+  <data name="customComboBox1.Items254" xml:space="preserve">
+    <value>Exceptional Mythril Pauldron</value>
+  </data>
+  <data name="customComboBox1.Items255" xml:space="preserve">
+    <value>Exceptional Pads of Trial</value>
+  </data>
+  <data name="customComboBox1.Items256" xml:space="preserve">
+    <value>Exceptional Pauldron of Trial</value>
+  </data>
+  <data name="customComboBox1.Items257" xml:space="preserve">
+    <value>Exceptional Priest Impact</value>
+  </data>
+  <data name="customComboBox1.Items258" xml:space="preserve">
+    <value>Exceptional Raptor</value>
+  </data>
+  <data name="customComboBox1.Items259" xml:space="preserve">
+    <value>Exceptional Ron's Boots</value>
+  </data>
+  <data name="customComboBox1.Items260" xml:space="preserve">
+    <value>Exceptional Ron's Gloves</value>
+  </data>
+  <data name="customComboBox1.Items261" xml:space="preserve">
+    <value>Exceptional Ron's Helmet</value>
+  </data>
+  <data name="customComboBox1.Items262" xml:space="preserve">
+    <value>Exceptional Ron's Pants</value>
+  </data>
+  <data name="customComboBox1.Items263" xml:space="preserve">
+    <value>Exceptional Ron's Robe</value>
+  </data>
+  <data name="customComboBox1.Items264" xml:space="preserve">
+    <value>Exceptional Shard</value>
+  </data>
+  <data name="customComboBox1.Items265" xml:space="preserve">
+    <value>Exceptional Totamic Spear</value>
+  </data>
+  <data name="customComboBox1.Items266" xml:space="preserve">
+    <value>Exceptional True silver</value>
+  </data>
+  <data name="customComboBox1.Items267" xml:space="preserve">
+    <value>EXP Flash</value>
+  </data>
+  <data name="customComboBox1.Items268" xml:space="preserve">
+    <value>Fantastic Armor-shaped Frame</value>
+  </data>
+  <data name="customComboBox1.Items269" xml:space="preserve">
+    <value>Fantastic Boots-shaped Frame</value>
+  </data>
+  <data name="customComboBox1.Items270" xml:space="preserve">
+    <value>Fantastic Gaiter-shaped Frame</value>
+  </data>
+  <data name="customComboBox1.Items271" xml:space="preserve">
+    <value>Fantastic Gauntlets-shaped Frame</value>
+  </data>
+  <data name="customComboBox1.Items272" xml:space="preserve">
+    <value>Fantastic Helmet-shaped Frame</value>
+  </data>
+  <data name="customComboBox1.Items273" xml:space="preserve">
+    <value>Faun</value>
+  </data>
+  <data name="customComboBox1.Items274" xml:space="preserve">
+    <value>Feather of Hellfire Dragon</value>
+  </data>
+  <data name="customComboBox1.Items275" xml:space="preserve">
+    <value>Finely-Crafted Vulture Blade</value>
+  </data>
+  <data name="customComboBox1.Items276" xml:space="preserve">
+    <value>Fire Belt</value>
+  </data>
+  <data name="customComboBox1.Items277" xml:space="preserve">
+    <value>Fire Bloody Staff</value>
+  </data>
+  <data name="customComboBox1.Items278" xml:space="preserve">
+    <value>Fire Codex Gigas (selfname)</value>
+  </data>
+  <data name="customComboBox1.Items279" xml:space="preserve">
+    <value>Fire Dark Knight Staff</value>
+  </data>
+  <data name="customComboBox1.Items280" xml:space="preserve">
+    <value>Fire Dragon Saddle</value>
+  </data>
+  <data name="customComboBox1.Items281" xml:space="preserve">
+    <value>Fire Earring</value>
+  </data>
+  <data name="customComboBox1.Items282" xml:space="preserve">
+    <value>Fire Elemental Stone</value>
+  </data>
+  <data name="customComboBox1.Items283" xml:space="preserve">
+    <value>Fire Garges Staff</value>
+  </data>
+  <data name="customComboBox1.Items284" xml:space="preserve">
+    <value>Fire Kerykeion</value>
+  </data>
+  <data name="customComboBox1.Items285" xml:space="preserve">
+    <value>Flame Ring</value>
+  </data>
+  <data name="customComboBox1.Items286" xml:space="preserve">
+    <value>Forgotten Accessory Box</value>
+  </data>
+  <data name="customComboBox1.Items287" xml:space="preserve">
+    <value>Foverin</value>
+  </data>
+  <data name="customComboBox1.Items288" xml:space="preserve">
+    <value>Fragment of Arrogance</value>
+  </data>
+  <data name="customComboBox1.Items289" xml:space="preserve">
+    <value>Fragment of Avarice</value>
+  </data>
+  <data name="customComboBox1.Items290" xml:space="preserve">
+    <value>Fragment of Gluttony</value>
+  </data>
+  <data name="customComboBox1.Items291" xml:space="preserve">
+    <value>Fragment of Jealousy</value>
+  </data>
+  <data name="customComboBox1.Items292" xml:space="preserve">
+    <value>Fragment of Leechery</value>
+  </data>
+  <data name="customComboBox1.Items293" xml:space="preserve">
+    <value>Fragment of Rage</value>
+  </data>
+  <data name="customComboBox1.Items294" xml:space="preserve">
+    <value>Fragment of Sloth</value>
+  </data>
+  <data name="customComboBox1.Items295" xml:space="preserve">
+    <value>Fulitol</value>
+  </data>
+  <data name="customComboBox1.Items296" xml:space="preserve">
+    <value>Full Plate Armor Boots</value>
+  </data>
+  <data name="customComboBox1.Items297" xml:space="preserve">
+    <value>Full Plate Armor Gauntlet</value>
+  </data>
+  <data name="customComboBox1.Items298" xml:space="preserve">
+    <value>Full Plate Armor Helmet</value>
+  </data>
+  <data name="customComboBox1.Items299" xml:space="preserve">
+    <value>Full Plate Armor Pads</value>
+  </data>
+  <data name="customComboBox1.Items300" xml:space="preserve">
+    <value>Full Plate Armor Pauldron</value>
+  </data>
+  <data name="customComboBox1.Items301" xml:space="preserve">
+    <value>Gab</value>
+  </data>
+  <data name="customComboBox1.Items302" xml:space="preserve">
+    <value>Garges Bow</value>
+  </data>
+  <data name="customComboBox1.Items303" xml:space="preserve">
+    <value>Garges Dagger</value>
+  </data>
+  <data name="customComboBox1.Items304" xml:space="preserve">
+    <value>Garges Mace</value>
+  </data>
+  <data name="customComboBox1.Items305" xml:space="preserve">
+    <value>Garges Scythe</value>
+  </data>
+  <data name="customComboBox1.Items306" xml:space="preserve">
+    <value>Garges Shield</value>
+  </data>
+  <data name="customComboBox1.Items307" xml:space="preserve">
+    <value>Garges Two-handed Sword</value>
+  </data>
+  <data name="customComboBox1.Items308" xml:space="preserve">
+    <value>Garp</value>
+  </data>
+  <data name="customComboBox1.Items309" xml:space="preserve">
+    <value>GaruKonga's Essence</value>
+  </data>
+  <data name="customComboBox1.Items310" xml:space="preserve">
+    <value>Gauntlet of Trial</value>
+  </data>
+  <data name="customComboBox1.Items311" xml:space="preserve">
+    <value>Giantic Axe (One-handed)</value>
+  </data>
+  <data name="customComboBox1.Items312" xml:space="preserve">
+    <value>Giantic Axe (Two-handed)</value>
+  </data>
+  <data name="customComboBox1.Items313" xml:space="preserve">
+    <value>Gift from Great Wizard</value>
+  </data>
+  <data name="customComboBox1.Items314" xml:space="preserve">
+    <value>Glacier Erenion</value>
+  </data>
+  <data name="customComboBox1.Items315" xml:space="preserve">
+    <value>Glass Belt</value>
+  </data>
+  <data name="customComboBox1.Items316" xml:space="preserve">
+    <value>Glave</value>
+  </data>
+  <data name="customComboBox1.Items317" xml:space="preserve">
+    <value>Gold Ring</value>
+  </data>
+  <data name="customComboBox1.Items318" xml:space="preserve">
+    <value>Golden Dragon Crescent Blade</value>
+  </data>
+  <data name="customComboBox1.Items319" xml:space="preserve">
+    <value>Golden Earring</value>
+  </data>
+  <data name="customComboBox1.Items320" xml:space="preserve">
+    <value>Graham</value>
+  </data>
+  <data name="customComboBox1.Items321" xml:space="preserve">
+    <value>Great Mace</value>
+  </data>
+  <data name="customComboBox1.Items322" xml:space="preserve">
+    <value>Green Dragon Amulet</value>
+  </data>
+  <data name="customComboBox1.Items323" xml:space="preserve">
+    <value>Green Gem</value>
+  </data>
+  <data name="customComboBox1.Items324" xml:space="preserve">
+    <value>Green Treasure Chest</value>
+  </data>
+  <data name="customComboBox1.Items325" xml:space="preserve">
+    <value>Guardian Shield of Captain</value>
+  </data>
+  <data name="customComboBox1.Items326" xml:space="preserve">
+    <value>Gungnir</value>
+  </data>
+  <data name="customComboBox1.Items327" xml:space="preserve">
+    <value>Halberd</value>
+  </data>
+  <data name="customComboBox1.Items328" xml:space="preserve">
+    <value>Halloween Spear</value>
+  </data>
+  <data name="customComboBox1.Items329" xml:space="preserve">
+    <value>Hand Axe</value>
+  </data>
+  <data name="customComboBox1.Items330" xml:space="preserve">
+    <value>Hanguk Sword</value>
+  </data>
+  <data name="customComboBox1.Items331" xml:space="preserve">
+    <value>Heart of Devil</value>
+  </data>
+  <data name="customComboBox1.Items332" xml:space="preserve">
+    <value>Helenid</value>
+  </data>
+  <data name="customComboBox1.Items333" xml:space="preserve">
+    <value>Hell Blood</value>
+  </data>
+  <data name="customComboBox1.Items334" xml:space="preserve">
+    <value>Hell Breaker</value>
+  </data>
+  <data name="customComboBox1.Items335" xml:space="preserve">
+    <value>Helmet of Trial</value>
+  </data>
+  <data name="customComboBox1.Items336" xml:space="preserve">
+    <value>Hepa's Blade Axe</value>
+  </data>
+  <data name="customComboBox1.Items337" xml:space="preserve">
+    <value>Hepa's Chitin Armor Pads</value>
+  </data>
+  <data name="customComboBox1.Items338" xml:space="preserve">
+    <value>Hepa's Chitin Armor Pauldron</value>
+  </data>
+  <data name="customComboBox1.Items339" xml:space="preserve">
+    <value>Hepa's Chitin Boots</value>
+  </data>
+  <data name="customComboBox1.Items340" xml:space="preserve">
+    <value>Hepa's Chitin Gauntlets</value>
+  </data>
+  <data name="customComboBox1.Items341" xml:space="preserve">
+    <value>Hepa's Chitin Helmet</value>
+  </data>
+  <data name="customComboBox1.Items342" xml:space="preserve">
+    <value>Hepa's Chitin Shell Boots</value>
+  </data>
+  <data name="customComboBox1.Items343" xml:space="preserve">
+    <value>Hepa's Chitin Shell Gauntlets</value>
+  </data>
+  <data name="customComboBox1.Items344" xml:space="preserve">
+    <value>Hepa's Chitin Shell Helmet</value>
+  </data>
+  <data name="customComboBox1.Items345" xml:space="preserve">
+    <value>Hepa's Chitin Shell Pads</value>
+  </data>
+  <data name="customComboBox1.Items346" xml:space="preserve">
+    <value>Hepa's Chitin Shell Pauldron</value>
+  </data>
+  <data name="customComboBox1.Items347" xml:space="preserve">
+    <value>Hepa's Complete Boots</value>
+  </data>
+  <data name="customComboBox1.Items348" xml:space="preserve">
+    <value>Hepa's Complete Glove</value>
+  </data>
+  <data name="customComboBox1.Items349" xml:space="preserve">
+    <value>Hepa's Complete Helmet</value>
+  </data>
+  <data name="customComboBox1.Items350" xml:space="preserve">
+    <value>Hepa's Complete Pants</value>
+  </data>
+  <data name="customComboBox1.Items351" xml:space="preserve">
+    <value>Hepa's Complete Robe</value>
+  </data>
+  <data name="customComboBox1.Items352" xml:space="preserve">
+    <value>Hepa's Crimson Boots</value>
+  </data>
+  <data name="customComboBox1.Items353" xml:space="preserve">
+    <value>Hepa's Crimson Gloves</value>
+  </data>
+  <data name="customComboBox1.Items354" xml:space="preserve">
+    <value>Hepa's Crimson Helmet</value>
+  </data>
+  <data name="customComboBox1.Items355" xml:space="preserve">
+    <value>Hepa's Crimson Pants</value>
+  </data>
+  <data name="customComboBox1.Items356" xml:space="preserve">
+    <value>Hepa's Crimson Robe</value>
+  </data>
+  <data name="customComboBox1.Items357" xml:space="preserve">
+    <value>Hepa's Deep Scar</value>
+  </data>
+  <data name="customComboBox1.Items358" xml:space="preserve">
+    <value>Hepa's Durandal</value>
+  </data>
+  <data name="customComboBox1.Items359" xml:space="preserve">
+    <value>Hepa's Exceptional Blade Axe</value>
+  </data>
+  <data name="customComboBox1.Items360" xml:space="preserve">
+    <value>Hepa's Exceptional Deep Scar</value>
+  </data>
+  <data name="customComboBox1.Items361" xml:space="preserve">
+    <value>Hepa's Exceptional Graham</value>
+  </data>
+  <data name="customComboBox1.Items362" xml:space="preserve">
+    <value>Hepa's Exceptional Impact</value>
+  </data>
+  <data name="customComboBox1.Items363" xml:space="preserve">
+    <value>Hepa's Exceptional Iron Bow</value>
+  </data>
+  <data name="customComboBox1.Items364" xml:space="preserve">
+    <value>Hepa's Exceptional Iron Impact</value>
+  </data>
+  <data name="customComboBox1.Items365" xml:space="preserve">
+    <value>Hepa's Exceptional Mirage</value>
+  </data>
+  <data name="customComboBox1.Items366" xml:space="preserve">
+    <value>Hepa's Exceptional Priest Impact</value>
+  </data>
+  <data name="customComboBox1.Items367" xml:space="preserve">
+    <value>Hepa's Exceptional Raptor</value>
+  </data>
+  <data name="customComboBox1.Items368" xml:space="preserve">
+    <value>Hepa's Exceptional Shard</value>
+  </data>
+  <data name="customComboBox1.Items369" xml:space="preserve">
+    <value>Hepa's Exceptional Totamic Spear</value>
+  </data>
+  <data name="customComboBox1.Items370" xml:space="preserve">
+    <value>Hepa's Glave</value>
+  </data>
+  <data name="customComboBox1.Items371" xml:space="preserve">
+    <value>Hepa's Graham</value>
+  </data>
+  <data name="customComboBox1.Items372" xml:space="preserve">
+    <value>Hepa's Impact</value>
+  </data>
+  <data name="customComboBox1.Items373" xml:space="preserve">
+    <value>Hepa's Iron Bow</value>
+  </data>
+  <data name="customComboBox1.Items374" xml:space="preserve">
+    <value>Hepa's Iron Crossbow</value>
+  </data>
+  <data name="customComboBox1.Items375" xml:space="preserve">
+    <value>Hepa's Iron Impact</value>
+  </data>
+  <data name="customComboBox1.Items376" xml:space="preserve">
+    <value>Hepa's Mirage</value>
+  </data>
+  <data name="customComboBox1.Items377" xml:space="preserve">
+    <value>Hepa's Mirage Dagger</value>
+  </data>
+  <data name="customComboBox1.Items378" xml:space="preserve">
+    <value>Hepa's Novice Bow</value>
+  </data>
+  <data name="customComboBox1.Items379" xml:space="preserve">
+    <value>Hepa's Novice Priest Maul</value>
+  </data>
+  <data name="customComboBox1.Items380" xml:space="preserve">
+    <value>Hepa's Novice Staff</value>
+  </data>
+  <data name="customComboBox1.Items381" xml:space="preserve">
+    <value>Hepa's Priest Chitin Armor Pads</value>
+  </data>
+  <data name="customComboBox1.Items382" xml:space="preserve">
+    <value>Hepa's Priest Chitin Armor Pauldron</value>
+  </data>
+  <data name="customComboBox1.Items383" xml:space="preserve">
+    <value>Hepa's Priest Chitin Boots</value>
+  </data>
+  <data name="customComboBox1.Items384" xml:space="preserve">
+    <value>Hepa's Priest Chitin Gauntlets</value>
+  </data>
+  <data name="customComboBox1.Items385" xml:space="preserve">
+    <value>Hepa's Priest Chitin Helmet</value>
+  </data>
+  <data name="customComboBox1.Items386" xml:space="preserve">
+    <value>Hepa's Priest Chitin Shell Boots</value>
+  </data>
+  <data name="customComboBox1.Items387" xml:space="preserve">
+    <value>Hepa's Priest Chitin Shell Gauntlets</value>
+  </data>
+  <data name="customComboBox1.Items388" xml:space="preserve">
+    <value>Hepa's Priest Chitin Shell Helmet</value>
+  </data>
+  <data name="customComboBox1.Items389" xml:space="preserve">
+    <value>Hepa's Priest Chitin Shell Pads</value>
+  </data>
+  <data name="customComboBox1.Items390" xml:space="preserve">
+    <value>Hepa's Priest Chitin Shell Pauldron</value>
+  </data>
+  <data name="customComboBox1.Items391" xml:space="preserve">
+    <value>Hepa's Priest Impact</value>
+  </data>
+  <data name="customComboBox1.Items392" xml:space="preserve">
+    <value>Hepa's Raptor</value>
+  </data>
+  <data name="customComboBox1.Items393" xml:space="preserve">
+    <value>Hepa's Rogue Chitin Armor Pads</value>
+  </data>
+  <data name="customComboBox1.Items394" xml:space="preserve">
+    <value>Hepa's Rogue Chitin Armor Pauldron</value>
+  </data>
+  <data name="customComboBox1.Items395" xml:space="preserve">
+    <value>Hepa's Rogue Chitin Boots</value>
+  </data>
+  <data name="customComboBox1.Items396" xml:space="preserve">
+    <value>Hepa's Rogue Chitin Gauntlets</value>
+  </data>
+  <data name="customComboBox1.Items397" xml:space="preserve">
+    <value>Hepa's Rogue Chitin Helmet</value>
+  </data>
+  <data name="customComboBox1.Items398" xml:space="preserve">
+    <value>Hepa's Rogue Chitin Shell Boots</value>
+  </data>
+  <data name="customComboBox1.Items399" xml:space="preserve">
+    <value>Hepa's Rogue Chitin Shell Gauntlets</value>
+  </data>
+  <data name="customComboBox1.Items400" xml:space="preserve">
+    <value>Hepa's Rogue Chitin Shell Helmet</value>
+  </data>
+  <data name="customComboBox1.Items401" xml:space="preserve">
+    <value>Hepa's Rogue Chitin Shell Pads</value>
+  </data>
+  <data name="customComboBox1.Items402" xml:space="preserve">
+    <value>Hepa's Rogue Chitin Shell Pauldron</value>
+  </data>
+  <data name="customComboBox1.Items403" xml:space="preserve">
+    <value>Hepa's Shard</value>
+  </data>
+  <data name="customComboBox1.Items404" xml:space="preserve">
+    <value>Hepa's Slayer</value>
+  </data>
+  <data name="customComboBox1.Items405" xml:space="preserve">
+    <value>Hepa's Tomahawk</value>
+  </data>
+  <data name="customComboBox1.Items406" xml:space="preserve">
+    <value>Hepa's Totamic Club</value>
+  </data>
+  <data name="customComboBox1.Items407" xml:space="preserve">
+    <value>Hepa's Totamic Spear</value>
+  </data>
+  <data name="customComboBox1.Items408" xml:space="preserve">
+    <value>Hero's Valor</value>
+  </data>
+  <data name="customComboBox1.Items409" xml:space="preserve">
+    <value>Hidden Secret Bone Crusher</value>
+  </data>
+  <data name="customComboBox1.Items410" xml:space="preserve">
+    <value>Hidden Secret Holy Shield</value>
+  </data>
+  <data name="customComboBox1.Items411" xml:space="preserve">
+    <value>Hidden Secret Staff</value>
+  </data>
+  <data name="customComboBox1.Items412" xml:space="preserve">
+    <value>Holy Animor</value>
+  </data>
+  <data name="customComboBox1.Items413" xml:space="preserve">
+    <value>Holy Armor</value>
+  </data>
+  <data name="customComboBox1.Items414" xml:space="preserve">
+    <value>Holy Judge's Hammer of Moradon</value>
+  </data>
+  <data name="customComboBox1.Items415" xml:space="preserve">
+    <value>Holy Knight Assassin Boots</value>
+  </data>
+  <data name="customComboBox1.Items416" xml:space="preserve">
+    <value>Holy Knight Assassin Gauntlets</value>
+  </data>
+  <data name="customComboBox1.Items417" xml:space="preserve">
+    <value>Holy Knight Assassin Helmet</value>
+  </data>
+  <data name="customComboBox1.Items418" xml:space="preserve">
+    <value>Holy Knight Assassin Pads</value>
+  </data>
+  <data name="customComboBox1.Items419" xml:space="preserve">
+    <value>Holy Knight Assassin Pauldron</value>
+  </data>
+  <data name="customComboBox1.Items420" xml:space="preserve">
+    <value>Holy Knight Mage Boots</value>
+  </data>
+  <data name="customComboBox1.Items421" xml:space="preserve">
+    <value>Holy Knight Mage Gloves</value>
+  </data>
+  <data name="customComboBox1.Items422" xml:space="preserve">
+    <value>Holy Knight Mage Helmet</value>
+  </data>
+  <data name="customComboBox1.Items423" xml:space="preserve">
+    <value>Holy Knight Mage Pants</value>
+  </data>
+  <data name="customComboBox1.Items424" xml:space="preserve">
+    <value>Holy Knight Mage Robe</value>
+  </data>
+  <data name="customComboBox1.Items425" xml:space="preserve">
+    <value>Holy Knight Portu Boots</value>
+  </data>
+  <data name="customComboBox1.Items426" xml:space="preserve">
+    <value>Holy Knight Portu Gauntlets</value>
+  </data>
+  <data name="customComboBox1.Items427" xml:space="preserve">
+    <value>Holy Knight Portu Helmet</value>
+  </data>
+  <data name="customComboBox1.Items428" xml:space="preserve">
+    <value>Holy Knight Portu Pads</value>
+  </data>
+  <data name="customComboBox1.Items429" xml:space="preserve">
+    <value>Holy Knight Portu Pauldron</value>
+  </data>
+  <data name="customComboBox1.Items430" xml:space="preserve">
+    <value>Holy Knight Priest Boots</value>
+  </data>
+  <data name="customComboBox1.Items431" xml:space="preserve">
+    <value>Holy Knight Priest Gauntlets</value>
+  </data>
+  <data name="customComboBox1.Items432" xml:space="preserve">
+    <value>Holy Knight Priest Helmet</value>
+  </data>
+  <data name="customComboBox1.Items433" xml:space="preserve">
+    <value>Holy Knight Priest Pads</value>
+  </data>
+  <data name="customComboBox1.Items434" xml:space="preserve">
+    <value>Holy Knight Priest Pauldron</value>
+  </data>
+  <data name="customComboBox1.Items435" xml:space="preserve">
+    <value>Holy Knight Warrior Boots</value>
+  </data>
+  <data name="customComboBox1.Items436" xml:space="preserve">
+    <value>Holy Knight Warrior Gauntlets</value>
+  </data>
+  <data name="customComboBox1.Items437" xml:space="preserve">
+    <value>Holy Knight Warrior Helmet</value>
+  </data>
+  <data name="customComboBox1.Items438" xml:space="preserve">
+    <value>Holy Knight Warrior Pads</value>
+  </data>
+  <data name="customComboBox1.Items439" xml:space="preserve">
+    <value>Holy Knight Warrior Pauldron</value>
+  </data>
+  <data name="customComboBox1.Items440" xml:space="preserve">
+    <value>Horn Crossbow</value>
+  </data>
+  <data name="customComboBox1.Items441" xml:space="preserve">
+    <value>Horn of Devil</value>
+  </data>
+  <data name="customComboBox1.Items442" xml:space="preserve">
+    <value>Horned Staff</value>
+  </data>
+  <data name="customComboBox1.Items443" xml:space="preserve">
+    <value>Hrunting</value>
+  </data>
+  <data name="customComboBox1.Items444" xml:space="preserve">
+    <value>Ice Belt</value>
+  </data>
+  <data name="customComboBox1.Items445" xml:space="preserve">
+    <value>Ice Bloody Staff</value>
+  </data>
+  <data name="customComboBox1.Items446" xml:space="preserve">
+    <value>Ice Codex Gigas (selfname)</value>
+  </data>
+  <data name="customComboBox1.Items447" xml:space="preserve">
+    <value>Ice Dark Knight Staff</value>
+  </data>
+  <data name="customComboBox1.Items448" xml:space="preserve">
+    <value>Ice Dragon Saddle</value>
+  </data>
+  <data name="customComboBox1.Items449" xml:space="preserve">
+    <value>Ice Earring</value>
+  </data>
+  <data name="customComboBox1.Items450" xml:space="preserve">
+    <value>Ice Elemental Stone</value>
+  </data>
+  <data name="customComboBox1.Items451" xml:space="preserve">
+    <value>Ice Garges Staff</value>
+  </data>
+  <data name="customComboBox1.Items452" xml:space="preserve">
+    <value>Ice Kerykeion</value>
+  </data>
+  <data name="customComboBox1.Items453" xml:space="preserve">
+    <value>Imir Ring</value>
+  </data>
+  <data name="customComboBox1.Items454" xml:space="preserve">
+    <value>Impact</value>
+  </data>
+  <data name="customComboBox1.Items455" xml:space="preserve">
+    <value>Ingredients for the Rice Soup</value>
+  </data>
+  <data name="customComboBox1.Items456" xml:space="preserve">
+    <value>Iron Belt</value>
+  </data>
+  <data name="customComboBox1.Items457" xml:space="preserve">
+    <value>Iron Bow</value>
+  </data>
+  <data name="customComboBox1.Items458" xml:space="preserve">
+    <value>Iron Crossbow</value>
+  </data>
+  <data name="customComboBox1.Items459" xml:space="preserve">
+    <value>Iron Earring</value>
+  </data>
+  <data name="customComboBox1.Items460" xml:space="preserve">
+    <value>Iron Impact</value>
+  </data>
+  <data name="customComboBox1.Items461" xml:space="preserve">
+    <value>Iron Necklace</value>
+  </data>
+  <data name="customComboBox1.Items462" xml:space="preserve">
+    <value>Javana Axe (One-handed)</value>
+  </data>
+  <data name="customComboBox1.Items463" xml:space="preserve">
+    <value>Javana Axe (Two-handed)</value>
+  </data>
+  <data name="customComboBox1.Items464" xml:space="preserve">
+    <value>Jewel of Absorbtion</value>
+  </data>
+  <data name="customComboBox1.Items465" xml:space="preserve">
+    <value>Jewel of Dexterity</value>
+  </data>
+  <data name="customComboBox1.Items466" xml:space="preserve">
+    <value>Jewel of Hardness</value>
+  </data>
+  <data name="customComboBox1.Items467" xml:space="preserve">
+    <value>Jewel of Intelligence</value>
+  </data>
+  <data name="customComboBox1.Items468" xml:space="preserve">
+    <value>Jewel of Magic</value>
+  </data>
+  <data name="customComboBox1.Items469" xml:space="preserve">
+    <value>Jewel of Philosopher</value>
+  </data>
+  <data name="customComboBox1.Items470" xml:space="preserve">
+    <value>Jewel of Strength</value>
+  </data>
+  <data name="customComboBox1.Items471" xml:space="preserve">
+    <value>Judicious Belt</value>
+  </data>
+  <data name="customComboBox1.Items472" xml:space="preserve">
+    <value>Kekuri Belt</value>
+  </data>
+  <data name="customComboBox1.Items473" xml:space="preserve">
+    <value>Kekuri Ring</value>
+  </data>
+  <data name="customComboBox1.Items474" xml:space="preserve">
+    <value>Khanjar</value>
+  </data>
+  <data name="customComboBox1.Items475" xml:space="preserve">
+    <value>Khanjar (selfname)</value>
+  </data>
+  <data name="customComboBox1.Items476" xml:space="preserve">
+    <value>Knife</value>
+  </data>
+  <data name="customComboBox1.Items477" xml:space="preserve">
+    <value>Knight's Returnee Emblem</value>
+  </data>
+  <data name="customComboBox1.Items478" xml:space="preserve">
+    <value>Kodeks Gigas</value>
+  </data>
+  <data name="customComboBox1.Items479" xml:space="preserve">
+    <value>Kojahan Ring</value>
+  </data>
+  <data name="customComboBox1.Items480" xml:space="preserve">
+    <value>Krowaz Assassin Boots</value>
+  </data>
+  <data name="customComboBox1.Items481" xml:space="preserve">
+    <value>Krowaz Assassin Gauntlets</value>
+  </data>
+  <data name="customComboBox1.Items482" xml:space="preserve">
+    <value>Krowaz Assassin Helmet</value>
+  </data>
+  <data name="customComboBox1.Items483" xml:space="preserve">
+    <value>Krowaz Assassin Lower Garment</value>
+  </data>
+  <data name="customComboBox1.Items484" xml:space="preserve">
+    <value>Krowaz Assassin Upper Garment</value>
+  </data>
+  <data name="customComboBox1.Items485" xml:space="preserve">
+    <value>Krowaz Mage Boots</value>
+  </data>
+  <data name="customComboBox1.Items486" xml:space="preserve">
+    <value>Krowaz Mage Gauntlets</value>
+  </data>
+  <data name="customComboBox1.Items487" xml:space="preserve">
+    <value>Krowaz Mage Helmet</value>
+  </data>
+  <data name="customComboBox1.Items488" xml:space="preserve">
+    <value>Krowaz Mage Pants</value>
+  </data>
+  <data name="customComboBox1.Items489" xml:space="preserve">
+    <value>Krowaz Mage Robe</value>
+  </data>
+  <data name="customComboBox1.Items490" xml:space="preserve">
+    <value>Krowaz Portu Boots</value>
+  </data>
+  <data name="customComboBox1.Items491" xml:space="preserve">
+    <value>Krowaz Portu Bottom</value>
+  </data>
+  <data name="customComboBox1.Items492" xml:space="preserve">
+    <value>Krowaz Portu Gauntlet</value>
+  </data>
+  <data name="customComboBox1.Items493" xml:space="preserve">
+    <value>Krowaz Portu Helmet</value>
+  </data>
+  <data name="customComboBox1.Items494" xml:space="preserve">
+    <value>Krowaz Portu Top</value>
+  </data>
+  <data name="customComboBox1.Items495" xml:space="preserve">
+    <value>Krowaz Priest Boots</value>
+  </data>
+  <data name="customComboBox1.Items496" xml:space="preserve">
+    <value>Krowaz Priest Gauntlet</value>
+  </data>
+  <data name="customComboBox1.Items497" xml:space="preserve">
+    <value>Krowaz Priest Helmet</value>
+  </data>
+  <data name="customComboBox1.Items498" xml:space="preserve">
+    <value>Krowaz Priest Lower Garment</value>
+  </data>
+  <data name="customComboBox1.Items499" xml:space="preserve">
+    <value>Krowaz Priest Upper Garment</value>
+  </data>
+  <data name="customComboBox1.Items500" xml:space="preserve">
+    <value>Krowaz Transformation Scroll</value>
+  </data>
+  <data name="customComboBox1.Items501" xml:space="preserve">
+    <value>Krowaz Warrior Boots</value>
+  </data>
+  <data name="customComboBox1.Items502" xml:space="preserve">
+    <value>Krowaz Warrior Gauntlets</value>
+  </data>
+  <data name="customComboBox1.Items503" xml:space="preserve">
+    <value>Krowaz Warrior Helmet</value>
+  </data>
+  <data name="customComboBox1.Items504" xml:space="preserve">
+    <value>Krowaz Warrior Lower Garment</value>
+  </data>
+  <data name="customComboBox1.Items505" xml:space="preserve">
+    <value>Krowaz Warrior Upper Garment</value>
+  </data>
+  <data name="customComboBox1.Items506" xml:space="preserve">
+    <value>Kukry</value>
+  </data>
+  <data name="customComboBox1.Items507" xml:space="preserve">
+    <value>Large Axe</value>
+  </data>
+  <data name="customComboBox1.Items508" xml:space="preserve">
+    <value>Large Breaker</value>
+  </data>
+  <data name="customComboBox1.Items509" xml:space="preserve">
+    <value>Large Hacker</value>
+  </data>
+  <data name="customComboBox1.Items510" xml:space="preserve">
+    <value>Legionnaire Band</value>
+  </data>
+  <data name="customComboBox1.Items511" xml:space="preserve">
+    <value>Leonard</value>
+  </data>
+  <data name="customComboBox1.Items512" xml:space="preserve">
+    <value>Lich King's Earrings</value>
+  </data>
+  <data name="customComboBox1.Items513" xml:space="preserve">
+    <value>Light Belt of Life</value>
+  </data>
+  <data name="customComboBox1.Items514" xml:space="preserve">
+    <value>Light Elemental Stone</value>
+  </data>
+  <data name="customComboBox1.Items515" xml:space="preserve">
+    <value>Lightning Belt</value>
+  </data>
+  <data name="customComboBox1.Items516" xml:space="preserve">
+    <value>Lightning Bloody Staff</value>
+  </data>
+  <data name="customComboBox1.Items517" xml:space="preserve">
+    <value>Lightning Codex Gigas (selfname)</value>
+  </data>
+  <data name="customComboBox1.Items518" xml:space="preserve">
+    <value>Lightning Dark Knight Staff</value>
+  </data>
+  <data name="customComboBox1.Items519" xml:space="preserve">
+    <value>Lightning Dragon Saddle</value>
+  </data>
+  <data name="customComboBox1.Items520" xml:space="preserve">
+    <value>Lightning Earring</value>
+  </data>
+  <data name="customComboBox1.Items521" xml:space="preserve">
+    <value>Lightning Elemental Stone</value>
+  </data>
+  <data name="customComboBox1.Items522" xml:space="preserve">
+    <value>Lightning Erenion</value>
+  </data>
+  <data name="customComboBox1.Items523" xml:space="preserve">
+    <value>Lightning Garges Staff</value>
+  </data>
+  <data name="customComboBox1.Items524" xml:space="preserve">
+    <value>Lightning Kerykeion</value>
+  </data>
+  <data name="customComboBox1.Items525" xml:space="preserve">
+    <value>Lillime's Earring</value>
+  </data>
+  <data name="customComboBox1.Items526" xml:space="preserve">
+    <value>Lobo Pendant</value>
+  </data>
+  <data name="customComboBox1.Items527" xml:space="preserve">
+    <value>Lugias</value>
+  </data>
+  <data name="customComboBox1.Items528" xml:space="preserve">
+    <value>Lunar Tattoo</value>
+  </data>
+  <data name="customComboBox1.Items529" xml:space="preserve">
+    <value>Lupus Pendant</value>
+  </data>
+  <data name="customComboBox1.Items530" xml:space="preserve">
+    <value>Lycaon Pendant</value>
+  </data>
+  <data name="customComboBox1.Items531" xml:space="preserve">
+    <value>Mace of selfname</value>
+  </data>
+  <data name="customComboBox1.Items532" xml:space="preserve">
+    <value>Mage Earring</value>
+  </data>
+  <data name="customComboBox1.Items533" xml:space="preserve">
+    <value>Mage Earring (quest)</value>
+  </data>
+  <data name="customComboBox1.Items534" xml:space="preserve">
+    <value>Mage Pendant</value>
+  </data>
+  <data name="customComboBox1.Items535" xml:space="preserve">
+    <value>Magic Earring</value>
+  </data>
+  <data name="customComboBox1.Items536" xml:space="preserve">
+    <value>Mana Belt</value>
+  </data>
+  <data name="customComboBox1.Items537" xml:space="preserve">
+    <value>Massive Horn Maul</value>
+  </data>
+  <data name="customComboBox1.Items538" xml:space="preserve">
+    <value>Maul</value>
+  </data>
+  <data name="customComboBox1.Items539" xml:space="preserve">
+    <value>Mercenary Ring</value>
+  </data>
+  <data name="customComboBox1.Items540" xml:space="preserve">
+    <value>Messenger Ring</value>
+  </data>
+  <data name="customComboBox1.Items541" xml:space="preserve">
+    <value>Military Pick</value>
+  </data>
+  <data name="customComboBox1.Items542" xml:space="preserve">
+    <value>Minerva Helmet Certificate</value>
+  </data>
+  <data name="customComboBox1.Items543" xml:space="preserve">
+    <value>Minotaur's Earring</value>
+  </data>
+  <data name="customComboBox1.Items544" xml:space="preserve">
+    <value>Mirage</value>
+  </data>
+  <data name="customComboBox1.Items545" xml:space="preserve">
+    <value>Mirage Dagger</value>
+  </data>
+  <data name="customComboBox1.Items546" xml:space="preserve">
+    <value>Mjolnir</value>
+  </data>
+  <data name="customComboBox1.Items547" xml:space="preserve">
+    <value>Molok</value>
+  </data>
+  <data name="customComboBox1.Items548" xml:space="preserve">
+    <value>Monk's Staff of Destruction</value>
+  </data>
+  <data name="customComboBox1.Items549" xml:space="preserve">
+    <value>Monster Summon Staff</value>
+  </data>
+  <data name="customComboBox1.Items550" xml:space="preserve">
+    <value>Moonlight</value>
+  </data>
+  <data name="customComboBox1.Items551" xml:space="preserve">
+    <value>Moonlight (selfname)</value>
+  </data>
+  <data name="customComboBox1.Items552" xml:space="preserve">
+    <value>Moradon Elite Bow</value>
+  </data>
+  <data name="customComboBox1.Items553" xml:space="preserve">
+    <value>Moradon Guards Dirk</value>
+  </data>
+  <data name="customComboBox1.Items554" xml:space="preserve">
+    <value>Moradon Valedictorian Mage Staff</value>
+  </data>
+  <data name="customComboBox1.Items555" xml:space="preserve">
+    <value>Moradon Village Watch</value>
+  </data>
+  <data name="customComboBox1.Items556" xml:space="preserve">
+    <value>Mythril Boots</value>
+  </data>
+  <data name="customComboBox1.Items557" xml:space="preserve">
+    <value>Mythril Gauntlet</value>
+  </data>
+  <data name="customComboBox1.Items558" xml:space="preserve">
+    <value>Mythril Helmet</value>
+  </data>
+  <data name="customComboBox1.Items559" xml:space="preserve">
+    <value>Mythril Pad</value>
+  </data>
+  <data name="customComboBox1.Items560" xml:space="preserve">
+    <value>Mythril Pauldron</value>
+  </data>
+  <data name="customComboBox1.Items561" xml:space="preserve">
+    <value>Nebiros</value>
+  </data>
+  <data name="customComboBox1.Items562" xml:space="preserve">
+    <value>Necklace of Quickness</value>
+  </data>
+  <data name="customComboBox1.Items563" xml:space="preserve">
+    <value>Nepilim</value>
+  </data>
+  <data name="customComboBox1.Items564" xml:space="preserve">
+    <value>Nightmare Crystal</value>
+  </data>
+  <data name="customComboBox1.Items565" xml:space="preserve">
+    <value>Nimbus Tattoo</value>
+  </data>
+  <data name="customComboBox1.Items566" xml:space="preserve">
+    <value>Novice Shortsword of Hepa</value>
+  </data>
+  <data name="customComboBox1.Items567" xml:space="preserve">
+    <value>Oasis Staff</value>
+  </data>
+  <data name="customComboBox1.Items568" xml:space="preserve">
+    <value>Old Agility Necklace</value>
+  </data>
+  <data name="customComboBox1.Items569" xml:space="preserve">
+    <value>Old Belt of Curse</value>
+  </data>
+  <data name="customComboBox1.Items570" xml:space="preserve">
+    <value>Old Belt of Dexterity</value>
+  </data>
+  <data name="customComboBox1.Items571" xml:space="preserve">
+    <value>Old Belt of Harpy</value>
+  </data>
+  <data name="customComboBox1.Items572" xml:space="preserve">
+    <value>Old Belt of Intelligence</value>
+  </data>
+  <data name="customComboBox1.Items573" xml:space="preserve">
+    <value>Old Belt of Life</value>
+  </data>
+  <data name="customComboBox1.Items574" xml:space="preserve">
+    <value>Old Belt of Quickness</value>
+  </data>
+  <data name="customComboBox1.Items575" xml:space="preserve">
+    <value>Old Belt of Strength</value>
+  </data>
+  <data name="customComboBox1.Items576" xml:space="preserve">
+    <value>Old Black Dragon Necklace</value>
+  </data>
+  <data name="customComboBox1.Items577" xml:space="preserve">
+    <value>Old Blue Dragon Necklace</value>
+  </data>
+  <data name="customComboBox1.Items578" xml:space="preserve">
+    <value>Old Bronze Belt</value>
+  </data>
+  <data name="customComboBox1.Items579" xml:space="preserve">
+    <value>Old Bronze Earring</value>
+  </data>
+  <data name="customComboBox1.Items580" xml:space="preserve">
+    <value>Old Combined Blade</value>
+  </data>
+  <data name="customComboBox1.Items581" xml:space="preserve">
+    <value>Old Crystal Belt</value>
+  </data>
+  <data name="customComboBox1.Items582" xml:space="preserve">
+    <value>Old Crystal Earring</value>
+  </data>
+  <data name="customComboBox1.Items583" xml:space="preserve">
+    <value>Old Crystal Necklace</value>
+  </data>
+  <data name="customComboBox1.Items584" xml:space="preserve">
+    <value>Old Crystal Ring</value>
+  </data>
+  <data name="customComboBox1.Items585" xml:space="preserve">
+    <value>Old Curse Necklace</value>
+  </data>
+  <data name="customComboBox1.Items586" xml:space="preserve">
+    <value>Old Diamond Ring</value>
+  </data>
+  <data name="customComboBox1.Items587" xml:space="preserve">
+    <value>Old Draki Supply Box</value>
+  </data>
+  <data name="customComboBox1.Items588" xml:space="preserve">
+    <value>Old Elemental Necklace</value>
+  </data>
+  <data name="customComboBox1.Items589" xml:space="preserve">
+    <value>Old Elemental Pendant</value>
+  </data>
+  <data name="customComboBox1.Items590" xml:space="preserve">
+    <value>Old Elf Belt</value>
+  </data>
+  <data name="customComboBox1.Items591" xml:space="preserve">
+    <value>Old Elf Metal Earring</value>
+  </data>
+  <data name="customComboBox1.Items592" xml:space="preserve">
+    <value>Old Elf Ring</value>
+  </data>
+  <data name="customComboBox1.Items593" xml:space="preserve">
+    <value>Old Emerald Ring</value>
+  </data>
+  <data name="customComboBox1.Items594" xml:space="preserve">
+    <value>Old Fire Belt</value>
+  </data>
+  <data name="customComboBox1.Items595" xml:space="preserve">
+    <value>Old Flame Ring</value>
+  </data>
+  <data name="customComboBox1.Items596" xml:space="preserve">
+    <value>Old Goddess Necklace</value>
+  </data>
+  <data name="customComboBox1.Items597" xml:space="preserve">
+    <value>Old Gold Earring</value>
+  </data>
+  <data name="customComboBox1.Items598" xml:space="preserve">
+    <value>Old Gold Ring</value>
+  </data>
+  <data name="customComboBox1.Items599" xml:space="preserve">
+    <value>Old Green Dragon Necklace</value>
+  </data>
+  <data name="customComboBox1.Items600" xml:space="preserve">
+    <value>Old Health Necklace</value>
+  </data>
+  <data name="customComboBox1.Items601" xml:space="preserve">
+    <value>Old Ice Belt</value>
+  </data>
+  <data name="customComboBox1.Items602" xml:space="preserve">
+    <value>Old Imir Ring</value>
+  </data>
+  <data name="customComboBox1.Items603" xml:space="preserve">
+    <value>Old Intelligence Necklace</value>
+  </data>
+  <data name="customComboBox1.Items604" xml:space="preserve">
+    <value>Old Kekuri Belt</value>
+  </data>
+  <data name="customComboBox1.Items605" xml:space="preserve">
+    <value>Old Lightning Belt</value>
+  </data>
+  <data name="customComboBox1.Items606" xml:space="preserve">
+    <value>Old Long Sword</value>
+  </data>
+  <data name="customComboBox1.Items607" xml:space="preserve">
+    <value>Old Mage Earring</value>
+  </data>
+  <data name="customComboBox1.Items608" xml:space="preserve">
+    <value>Old Magic Power Necklace</value>
+  </data>
+  <data name="customComboBox1.Items609" xml:space="preserve">
+    <value>Old Mana Belt</value>
+  </data>
+  <data name="customComboBox1.Items610" xml:space="preserve">
+    <value>Old Mano Earring</value>
+  </data>
+  <data name="customComboBox1.Items611" xml:space="preserve">
+    <value>Old Mano Ring</value>
+  </data>
+  <data name="customComboBox1.Items612" xml:space="preserve">
+    <value>Old Necklace of Quickness</value>
+  </data>
+  <data name="customComboBox1.Items613" xml:space="preserve">
+    <value>Old Opal Earring</value>
+  </data>
+  <data name="customComboBox1.Items614" xml:space="preserve">
+    <value>Old Opal Ring</value>
+  </data>
+  <data name="customComboBox1.Items615" xml:space="preserve">
+    <value>Old Platinum Earring</value>
+  </data>
+  <data name="customComboBox1.Items616" xml:space="preserve">
+    <value>Old Platinum Ring</value>
+  </data>
+  <data name="customComboBox1.Items617" xml:space="preserve">
+    <value>Old Priest Pendant</value>
+  </data>
+  <data name="customComboBox1.Items618" xml:space="preserve">
+    <value>Old Priest's Earring</value>
+  </data>
+  <data name="customComboBox1.Items619" xml:space="preserve">
+    <value>Old Red Dragon Necklace</value>
+  </data>
+  <data name="customComboBox1.Items620" xml:space="preserve">
+    <value>Old Ring of Courage</value>
+  </data>
+  <data name="customComboBox1.Items621" xml:space="preserve">
+    <value>Old Ring of Life</value>
+  </data>
+  <data name="customComboBox1.Items622" xml:space="preserve">
+    <value>Old Rogue's Earring</value>
+  </data>
+  <data name="customComboBox1.Items623" xml:space="preserve">
+    <value>Old Ruby Ring</value>
+  </data>
+  <data name="customComboBox1.Items624" xml:space="preserve">
+    <value>Old Secret Silver Earring</value>
+  </data>
+  <data name="customComboBox1.Items625" xml:space="preserve">
+    <value>Old Shio Tears</value>
+  </data>
+  <data name="customComboBox1.Items626" xml:space="preserve">
+    <value>Old Short Blade</value>
+  </data>
+  <data name="customComboBox1.Items627" xml:space="preserve">
+    <value>Old Silver Earring</value>
+  </data>
+  <data name="customComboBox1.Items628" xml:space="preserve">
+    <value>Old Silver Ring</value>
+  </data>
+  <data name="customComboBox1.Items629" xml:space="preserve">
+    <value>Old Skeleton Belt</value>
+  </data>
+  <data name="customComboBox1.Items630" xml:space="preserve">
+    <value>Old Strength Necklace</value>
+  </data>
+  <data name="customComboBox1.Items631" xml:space="preserve">
+    <value>Old War Hammer</value>
+  </data>
+  <data name="customComboBox1.Items632" xml:space="preserve">
+    <value>Old Warrior Pendant</value>
+  </data>
+  <data name="customComboBox1.Items633" xml:space="preserve">
+    <value>Old Warrior's Earring</value>
+  </data>
+  <data name="customComboBox1.Items634" xml:space="preserve">
+    <value>Old White Dragon Necklace</value>
+  </data>
+  <data name="customComboBox1.Items635" xml:space="preserve">
+    <value>Old White Silver Earring</value>
+  </data>
+  <data name="customComboBox1.Items636" xml:space="preserve">
+    <value>Opal Earring</value>
+  </data>
+  <data name="customComboBox1.Items637" xml:space="preserve">
+    <value>Opal Ring</value>
+  </data>
+  <data name="customComboBox1.Items638" xml:space="preserve">
+    <value>Orc Shaman Staff</value>
+  </data>
+  <data name="customComboBox1.Items639" xml:space="preserve">
+    <value>Pads of Trial</value>
+  </data>
+  <data name="customComboBox1.Items640" xml:space="preserve">
+    <value>Pauldron of Trial</value>
+  </data>
+  <data name="customComboBox1.Items641" xml:space="preserve">
+    <value>Persistent Orc Tracker</value>
+  </data>
+  <data name="customComboBox1.Items642" xml:space="preserve">
+    <value>Plate Armor Boots</value>
+  </data>
+  <data name="customComboBox1.Items643" xml:space="preserve">
+    <value>Plate Armor Gauntlet</value>
+  </data>
+  <data name="customComboBox1.Items644" xml:space="preserve">
+    <value>Plate Armor Helmet</value>
+  </data>
+  <data name="customComboBox1.Items645" xml:space="preserve">
+    <value>Plate Armor Pads</value>
+  </data>
+  <data name="customComboBox1.Items646" xml:space="preserve">
+    <value>Plate Armor Pauldron</value>
+  </data>
+  <data name="customComboBox1.Items647" xml:space="preserve">
+    <value>Platinum Earring</value>
+  </data>
+  <data name="customComboBox1.Items648" xml:space="preserve">
+    <value>Platinum Ring</value>
+  </data>
+  <data name="customComboBox1.Items649" xml:space="preserve">
+    <value>Poison Elemental Stone</value>
+  </data>
+  <data name="customComboBox1.Items650" xml:space="preserve">
+    <value>Pole of selfname</value>
+  </data>
+  <data name="customComboBox1.Items651" xml:space="preserve">
+    <value>Pontus's Belt</value>
+  </data>
+  <data name="customComboBox1.Items652" xml:space="preserve">
+    <value>Pontus's Pendant</value>
+  </data>
+  <data name="customComboBox1.Items653" xml:space="preserve">
+    <value>Pontus's Ring</value>
+  </data>
+  <data name="customComboBox1.Items654" xml:space="preserve">
+    <value>Priest Chitin Armor Pads</value>
+  </data>
+  <data name="customComboBox1.Items655" xml:space="preserve">
+    <value>Priest Chitin Armor Pauldron</value>
+  </data>
+  <data name="customComboBox1.Items656" xml:space="preserve">
+    <value>Priest Chitin Boots</value>
+  </data>
+  <data name="customComboBox1.Items657" xml:space="preserve">
+    <value>Priest Chitin Gauntlets</value>
+  </data>
+  <data name="customComboBox1.Items658" xml:space="preserve">
+    <value>Priest Chitin Helmet</value>
+  </data>
+  <data name="customComboBox1.Items659" xml:space="preserve">
+    <value>Priest Chitin Shell Boots</value>
+  </data>
+  <data name="customComboBox1.Items660" xml:space="preserve">
+    <value>Priest Chitin Shell Gauntlets</value>
+  </data>
+  <data name="customComboBox1.Items661" xml:space="preserve">
+    <value>Priest Chitin Shell Helmet</value>
+  </data>
+  <data name="customComboBox1.Items662" xml:space="preserve">
+    <value>Priest Chitin Shell Pads</value>
+  </data>
+  <data name="customComboBox1.Items663" xml:space="preserve">
+    <value>Priest Chitin Shell Pauldron</value>
+  </data>
+  <data name="customComboBox1.Items664" xml:space="preserve">
+    <value>Priest Earring (quest)</value>
+  </data>
+  <data name="customComboBox1.Items665" xml:space="preserve">
+    <value>Priest Impact</value>
+  </data>
+  <data name="customComboBox1.Items666" xml:space="preserve">
+    <value>Priest Pendant</value>
+  </data>
+  <data name="customComboBox1.Items667" xml:space="preserve">
+    <value>Priest Ring</value>
+  </data>
+  <data name="customComboBox1.Items668" xml:space="preserve">
+    <value>Raptor</value>
+  </data>
+  <data name="customComboBox1.Items669" xml:space="preserve">
+    <value>Raum</value>
+  </data>
+  <data name="customComboBox1.Items670" xml:space="preserve">
+    <value>Red Dragon Necklace</value>
+  </data>
+  <data name="customComboBox1.Items671" xml:space="preserve">
+    <value>Red Gem</value>
+  </data>
+  <data name="customComboBox1.Items672" xml:space="preserve">
+    <value>Red Treasure Chest</value>
+  </data>
+  <data name="customComboBox1.Items673" xml:space="preserve">
+    <value>Returnee Supply Coupon</value>
+  </data>
+  <data name="customComboBox1.Items674" xml:space="preserve">
+    <value>Returnee's Token</value>
+  </data>
+  <data name="customComboBox1.Items675" xml:space="preserve">
+    <value>Ring of Courage</value>
+  </data>
+  <data name="customComboBox1.Items676" xml:space="preserve">
+    <value>Ring of Life</value>
+  </data>
+  <data name="customComboBox1.Items677" xml:space="preserve">
+    <value>Ring of Magic</value>
+  </data>
+  <data name="customComboBox1.Items678" xml:space="preserve">
+    <value>Ring of Purity</value>
+  </data>
+  <data name="customComboBox1.Items679" xml:space="preserve">
+    <value>Ring of the Felankor</value>
+  </data>
+  <data name="customComboBox1.Items680" xml:space="preserve">
+    <value>Rings of the Cool-Headed King</value>
+  </data>
+  <data name="customComboBox1.Items681" xml:space="preserve">
+    <value>Rings of the Great King</value>
+  </data>
+  <data name="customComboBox1.Items682" xml:space="preserve">
+    <value>Rings of the Intelligent King</value>
+  </data>
+  <data name="customComboBox1.Items683" xml:space="preserve">
+    <value>Rings of the Wise King</value>
+  </data>
+  <data name="customComboBox1.Items684" xml:space="preserve">
+    <value>Rogue Chitin Armor Pads</value>
+  </data>
+  <data name="customComboBox1.Items685" xml:space="preserve">
+    <value>Rogue Chitin Armor Pauldron</value>
+  </data>
+  <data name="customComboBox1.Items686" xml:space="preserve">
+    <value>Rogue Chitin Boots</value>
+  </data>
+  <data name="customComboBox1.Items687" xml:space="preserve">
+    <value>Rogue Chitin Gauntlets</value>
+  </data>
+  <data name="customComboBox1.Items688" xml:space="preserve">
+    <value>Rogue Chitin Helmet</value>
+  </data>
+  <data name="customComboBox1.Items689" xml:space="preserve">
+    <value>Rogue Chitin Shell Boots</value>
+  </data>
+  <data name="customComboBox1.Items690" xml:space="preserve">
+    <value>Rogue Chitin Shell Gauntlets</value>
+  </data>
+  <data name="customComboBox1.Items691" xml:space="preserve">
+    <value>Rogue Chitin Shell Helmet</value>
+  </data>
+  <data name="customComboBox1.Items692" xml:space="preserve">
+    <value>Rogue Chitin Shell Pads</value>
+  </data>
+  <data name="customComboBox1.Items693" xml:space="preserve">
+    <value>Rogue Chitin Shell Pauldron</value>
+  </data>
+  <data name="customComboBox1.Items694" xml:space="preserve">
+    <value>Rogue Earring</value>
+  </data>
+  <data name="customComboBox1.Items695" xml:space="preserve">
+    <value>Rogue Full Plate Armor Boots</value>
+  </data>
+  <data name="customComboBox1.Items696" xml:space="preserve">
+    <value>Rogue Full Plate Armor Gauntlet</value>
+  </data>
+  <data name="customComboBox1.Items697" xml:space="preserve">
+    <value>Rogue Full Plate Armor Helmet</value>
+  </data>
+  <data name="customComboBox1.Items698" xml:space="preserve">
+    <value>Rogue Full Plate Armor Pads</value>
+  </data>
+  <data name="customComboBox1.Items699" xml:space="preserve">
+    <value>Rogue Full Plate Armor Pauldron</value>
+  </data>
+  <data name="customComboBox1.Items700" xml:space="preserve">
+    <value>Ron's Boots</value>
+  </data>
+  <data name="customComboBox1.Items701" xml:space="preserve">
+    <value>Ron's Gloves</value>
+  </data>
+  <data name="customComboBox1.Items702" xml:space="preserve">
+    <value>Ron's Helmet</value>
+  </data>
+  <data name="customComboBox1.Items703" xml:space="preserve">
+    <value>Ron's Pants</value>
+  </data>
+  <data name="customComboBox1.Items704" xml:space="preserve">
+    <value>Ron's Robe</value>
+  </data>
+  <data name="customComboBox1.Items705" xml:space="preserve">
+    <value>Ron's Staff</value>
+  </data>
+  <data name="customComboBox1.Items706" xml:space="preserve">
+    <value>Rosetta Assassin Boots</value>
+  </data>
+  <data name="customComboBox1.Items707" xml:space="preserve">
+    <value>Rosetta Assassin Bottom</value>
+  </data>
+  <data name="customComboBox1.Items708" xml:space="preserve">
+    <value>Rosetta Assassin Gauntlet</value>
+  </data>
+  <data name="customComboBox1.Items709" xml:space="preserve">
+    <value>Rosetta Assassin Helmet</value>
+  </data>
+  <data name="customComboBox1.Items710" xml:space="preserve">
+    <value>Rosetta Assassin Top</value>
+  </data>
+  <data name="customComboBox1.Items711" xml:space="preserve">
+    <value>Rosetta Mage Boots</value>
+  </data>
+  <data name="customComboBox1.Items712" xml:space="preserve">
+    <value>Rosetta Mage Gloves</value>
+  </data>
+  <data name="customComboBox1.Items713" xml:space="preserve">
+    <value>Rosetta Mage Helmet</value>
+  </data>
+  <data name="customComboBox1.Items714" xml:space="preserve">
+    <value>Rosetta Mage Pants</value>
+  </data>
+  <data name="customComboBox1.Items715" xml:space="preserve">
+    <value>Rosetta Mage Robe</value>
+  </data>
+  <data name="customComboBox1.Items716" xml:space="preserve">
+    <value>Rosetta Priest Boots</value>
+  </data>
+  <data name="customComboBox1.Items717" xml:space="preserve">
+    <value>Rosetta Priest Bottom</value>
+  </data>
+  <data name="customComboBox1.Items718" xml:space="preserve">
+    <value>Rosetta Priest Gauntlet</value>
+  </data>
+  <data name="customComboBox1.Items719" xml:space="preserve">
+    <value>Rosetta Priest Helmet</value>
+  </data>
+  <data name="customComboBox1.Items720" xml:space="preserve">
+    <value>Rosetta Priest Top</value>
+  </data>
+  <data name="customComboBox1.Items721" xml:space="preserve">
+    <value>Rosetta Warrior Boots</value>
+  </data>
+  <data name="customComboBox1.Items722" xml:space="preserve">
+    <value>Rosetta Warrior Bottom</value>
+  </data>
+  <data name="customComboBox1.Items723" xml:space="preserve">
+    <value>Rosetta Warrior Gauntlet</value>
+  </data>
+  <data name="customComboBox1.Items724" xml:space="preserve">
+    <value>Rosetta Warrior Helmet</value>
+  </data>
+  <data name="customComboBox1.Items725" xml:space="preserve">
+    <value>Rosetta Warrior Top</value>
+  </data>
+  <data name="customComboBox1.Items726" xml:space="preserve">
+    <value>Ruahue</value>
+  </data>
+  <data name="customComboBox1.Items727" xml:space="preserve">
+    <value>Ruahue (selfname)</value>
+  </data>
+  <data name="customComboBox1.Items728" xml:space="preserve">
+    <value>Ruby Ring</value>
+  </data>
+  <data name="customComboBox1.Items729" xml:space="preserve">
+    <value>Ruler of the Legend - Black Tortoise</value>
+  </data>
+  <data name="customComboBox1.Items730" xml:space="preserve">
+    <value>Ruler of the Legend - Blue Dragon</value>
+  </data>
+  <data name="customComboBox1.Items731" xml:space="preserve">
+    <value>Ruler of the Legend - Diana's Deer</value>
+  </data>
+  <data name="customComboBox1.Items732" xml:space="preserve">
+    <value>Ruler of the Legend - Fenrir</value>
+  </data>
+  <data name="customComboBox1.Items733" xml:space="preserve">
+    <value>Ruler of the Legend - Pegasus (Fire)</value>
+  </data>
+  <data name="customComboBox1.Items734" xml:space="preserve">
+    <value>Ruler of the Legend - Pegasus (Ice)</value>
+  </data>
+  <data name="customComboBox1.Items735" xml:space="preserve">
+    <value>Ruler of the Legend - Pegasus (Lightning)</value>
+  </data>
+  <data name="customComboBox1.Items736" xml:space="preserve">
+    <value>Ruler of the Legend - Phoenix</value>
+  </data>
+  <data name="customComboBox1.Items737" xml:space="preserve">
+    <value>Ruler of the Legend - Serpent</value>
+  </data>
+  <data name="customComboBox1.Items738" xml:space="preserve">
+    <value>Ruler of the Legend - White Tiger</value>
+  </data>
+  <data name="customComboBox1.Items739" xml:space="preserve">
+    <value>Sacred Weapon Breaker Boots</value>
+  </data>
+  <data name="customComboBox1.Items740" xml:space="preserve">
+    <value>Sacred Weapon Breaker Gauntlets</value>
+  </data>
+  <data name="customComboBox1.Items741" xml:space="preserve">
+    <value>Sacred Weapon Breaker Helmet</value>
+  </data>
+  <data name="customComboBox1.Items742" xml:space="preserve">
+    <value>Sacred Weapon Breaker Lower Garment</value>
+  </data>
+  <data name="customComboBox1.Items743" xml:space="preserve">
+    <value>Sacred Weapon Breaker Upper Garment</value>
+  </data>
+  <data name="customComboBox1.Items744" xml:space="preserve">
+    <value>Saint Valentine Ring</value>
+  </data>
+  <data name="customComboBox1.Items745" xml:space="preserve">
+    <value>Saronga</value>
+  </data>
+  <data name="customComboBox1.Items746" xml:space="preserve">
+    <value>Sash of Sorrows</value>
+  </data>
+  <data name="customComboBox1.Items747" xml:space="preserve">
+    <value>Scorching Staff</value>
+  </data>
+  <data name="customComboBox1.Items748" xml:space="preserve">
+    <value>Scorpion Bow</value>
+  </data>
+  <data name="customComboBox1.Items749" xml:space="preserve">
+    <value>Scorpion Scythe</value>
+  </data>
+  <data name="customComboBox1.Items750" xml:space="preserve">
+    <value>Scorpion Shield</value>
+  </data>
+  <data name="customComboBox1.Items751" xml:space="preserve">
+    <value>Secret Assassin Boot</value>
+  </data>
+  <data name="customComboBox1.Items752" xml:space="preserve">
+    <value>Secret Assassin Bottom</value>
+  </data>
+  <data name="customComboBox1.Items753" xml:space="preserve">
+    <value>Secret Assassin Gauntlet</value>
+  </data>
+  <data name="customComboBox1.Items754" xml:space="preserve">
+    <value>Secret Assassin Helmet</value>
+  </data>
+  <data name="customComboBox1.Items755" xml:space="preserve">
+    <value>Secret Assassin Top</value>
+  </data>
+  <data name="customComboBox1.Items756" xml:space="preserve">
+    <value>Secret Mage Boot</value>
+  </data>
+  <data name="customComboBox1.Items757" xml:space="preserve">
+    <value>Secret Mage Glove</value>
+  </data>
+  <data name="customComboBox1.Items758" xml:space="preserve">
+    <value>Secret Mage Helmet</value>
+  </data>
+  <data name="customComboBox1.Items759" xml:space="preserve">
+    <value>Secret Mage Pants</value>
+  </data>
+  <data name="customComboBox1.Items760" xml:space="preserve">
+    <value>Secret Mage Robe</value>
+  </data>
+  <data name="customComboBox1.Items761" xml:space="preserve">
+    <value>Secret Portu Boots</value>
+  </data>
+  <data name="customComboBox1.Items762" xml:space="preserve">
+    <value>Secret Portu Bottom</value>
+  </data>
+  <data name="customComboBox1.Items763" xml:space="preserve">
+    <value>Secret Portu Gauntlet</value>
+  </data>
+  <data name="customComboBox1.Items764" xml:space="preserve">
+    <value>Secret Portu Helmet</value>
+  </data>
+  <data name="customComboBox1.Items765" xml:space="preserve">
+    <value>Secret Portu Top</value>
+  </data>
+  <data name="customComboBox1.Items766" xml:space="preserve">
+    <value>Secret Priest Boot</value>
+  </data>
+  <data name="customComboBox1.Items767" xml:space="preserve">
+    <value>Secret Priest Bottom</value>
+  </data>
+  <data name="customComboBox1.Items768" xml:space="preserve">
+    <value>Secret Priest Gauntlet</value>
+  </data>
+  <data name="customComboBox1.Items769" xml:space="preserve">
+    <value>Secret Priest Helmet</value>
+  </data>
+  <data name="customComboBox1.Items770" xml:space="preserve">
+    <value>Secret Priest Top</value>
+  </data>
+  <data name="customComboBox1.Items771" xml:space="preserve">
+    <value>Secret Warrior Boot</value>
+  </data>
+  <data name="customComboBox1.Items772" xml:space="preserve">
+    <value>Secret Warrior Bottom</value>
+  </data>
+  <data name="customComboBox1.Items773" xml:space="preserve">
+    <value>Secret Warrior Gauntlet</value>
+  </data>
+  <data name="customComboBox1.Items774" xml:space="preserve">
+    <value>Secret Warrior Helmet</value>
+  </data>
+  <data name="customComboBox1.Items775" xml:space="preserve">
+    <value>Secret Warrior Top</value>
+  </data>
+  <data name="customComboBox1.Items776" xml:space="preserve">
+    <value>Secret-Silver Earring</value>
+  </data>
+  <data name="customComboBox1.Items777" xml:space="preserve">
+    <value>Secular Fan</value>
+  </data>
+  <data name="customComboBox1.Items778" xml:space="preserve">
+    <value>Seed of Destruction</value>
+  </data>
+  <data name="customComboBox1.Items779" xml:space="preserve">
+    <value>Shard</value>
+  </data>
+  <data name="customComboBox1.Items780" xml:space="preserve">
+    <value>Sharp Fang</value>
+  </data>
+  <data name="customComboBox1.Items781" xml:space="preserve">
+    <value>Shenlong Bow</value>
+  </data>
+  <data name="customComboBox1.Items782" xml:space="preserve">
+    <value>Sherion</value>
+  </data>
+  <data name="customComboBox1.Items783" xml:space="preserve">
+    <value>Shield of selfname</value>
+  </data>
+  <data name="customComboBox1.Items784" xml:space="preserve">
+    <value>Shio Tears</value>
+  </data>
+  <data name="customComboBox1.Items785" xml:space="preserve">
+    <value>Shrewd Weapon Breaker Boots</value>
+  </data>
+  <data name="customComboBox1.Items786" xml:space="preserve">
+    <value>Shrewd Weapon Breaker Gauntlets</value>
+  </data>
+  <data name="customComboBox1.Items787" xml:space="preserve">
+    <value>Shrewd Weapon Breaker Helmet</value>
+  </data>
+  <data name="customComboBox1.Items788" xml:space="preserve">
+    <value>Shrewd Weapon Breaker Lower Garment</value>
+  </data>
+  <data name="customComboBox1.Items789" xml:space="preserve">
+    <value>Shrewd Weapon Breaker Upper Garment</value>
+  </data>
+  <data name="customComboBox1.Items790" xml:space="preserve">
+    <value>Silver Earring</value>
+  </data>
+  <data name="customComboBox1.Items791" xml:space="preserve">
+    <value>Silver Ring</value>
+  </data>
+  <data name="customComboBox1.Items792" xml:space="preserve">
+    <value>Silvery Gem</value>
+  </data>
+  <data name="customComboBox1.Items793" xml:space="preserve">
+    <value>Skeleton Belt</value>
+  </data>
+  <data name="customComboBox1.Items794" xml:space="preserve">
+    <value>Skeleton Rib</value>
+  </data>
+  <data name="customComboBox1.Items795" xml:space="preserve">
+    <value>Skull Destroyer</value>
+  </data>
+  <data name="customComboBox1.Items796" xml:space="preserve">
+    <value>Skull hammer</value>
+  </data>
+  <data name="customComboBox1.Items797" xml:space="preserve">
+    <value>Skull of Devil</value>
+  </data>
+  <data name="customComboBox1.Items798" xml:space="preserve">
+    <value>Slayer</value>
+  </data>
+  <data name="customComboBox1.Items799" xml:space="preserve">
+    <value>Smart castellan's sword</value>
+  </data>
+  <data name="customComboBox1.Items800" xml:space="preserve">
+    <value>Smite Hammer</value>
+  </data>
+  <data name="customComboBox1.Items801" xml:space="preserve">
+    <value>Solar Tattoo</value>
+  </data>
+  <data name="customComboBox1.Items802" xml:space="preserve">
+    <value>Spear of Murky Waters</value>
+  </data>
+  <data name="customComboBox1.Items803" xml:space="preserve">
+    <value>Spear of selfname</value>
+  </data>
+  <data name="customComboBox1.Items804" xml:space="preserve">
+    <value>Spell Stone Powder</value>
+  </data>
+  <data name="customComboBox1.Items805" xml:space="preserve">
+    <value>Staff of selfname</value>
+  </data>
+  <data name="customComboBox1.Items806" xml:space="preserve">
+    <value>Stellar Tattoo</value>
+  </data>
+  <data name="customComboBox1.Items807" xml:space="preserve">
+    <value>Stern castellan's sword</value>
+  </data>
+  <data name="customComboBox1.Items808" xml:space="preserve">
+    <value>Stiletto</value>
+  </data>
+  <data name="customComboBox1.Items809" xml:space="preserve">
+    <value>Stone Splitter</value>
+  </data>
+  <data name="customComboBox1.Items810" xml:space="preserve">
+    <value>String of Skulls</value>
+  </data>
+  <data name="customComboBox1.Items811" xml:space="preserve">
+    <value>Sturdy Weapon Breaker Boots</value>
+  </data>
+  <data name="customComboBox1.Items812" xml:space="preserve">
+    <value>Sturdy Weapon Breaker Gauntlets</value>
+  </data>
+  <data name="customComboBox1.Items813" xml:space="preserve">
+    <value>Sturdy Weapon Breaker Helmet</value>
+  </data>
+  <data name="customComboBox1.Items814" xml:space="preserve">
+    <value>Sturdy Weapon Breaker Lower Garment</value>
+  </data>
+  <data name="customComboBox1.Items815" xml:space="preserve">
+    <value>Sturdy Weapon Breaker Upper Garment</value>
+  </data>
+  <data name="customComboBox1.Items816" xml:space="preserve">
+    <value>Superior Draki Supply Box</value>
+  </data>
+  <data name="customComboBox1.Items817" xml:space="preserve">
+    <value>Swift Weapon Breaker Boots</value>
+  </data>
+  <data name="customComboBox1.Items818" xml:space="preserve">
+    <value>Swift Weapon Breaker Gauntlets</value>
+  </data>
+  <data name="customComboBox1.Items819" xml:space="preserve">
+    <value>Swift Weapon Breaker Helmet</value>
+  </data>
+  <data name="customComboBox1.Items820" xml:space="preserve">
+    <value>Swift Weapon Breaker Lower Garment</value>
+  </data>
+  <data name="customComboBox1.Items821" xml:space="preserve">
+    <value>Swift Weapon Breaker Upper Garment</value>
+  </data>
+  <data name="customComboBox1.Items822" xml:space="preserve">
+    <value>Swift Wolf Hunter</value>
+  </data>
+  <data name="customComboBox1.Items823" xml:space="preserve">
+    <value>Sword Breaker</value>
+  </data>
+  <data name="customComboBox1.Items824" xml:space="preserve">
+    <value>Sword of the Dead</value>
+  </data>
+  <data name="customComboBox1.Items825" xml:space="preserve">
+    <value>Syphioric</value>
+  </data>
+  <data name="customComboBox1.Items826" xml:space="preserve">
+    <value>Tamed Orc Punisher</value>
+  </data>
+  <data name="customComboBox1.Items827" xml:space="preserve">
+    <value>Taurus Belt</value>
+  </data>
+  <data name="customComboBox1.Items828" xml:space="preserve">
+    <value>Taurus Ring</value>
+  </data>
+  <data name="customComboBox1.Items829" xml:space="preserve">
+    <value>Taurus's Pendant</value>
+  </data>
+  <data name="customComboBox1.Items830" xml:space="preserve">
+    <value>Teeth of Devil</value>
+  </data>
+  <data name="customComboBox1.Items831" xml:space="preserve">
+    <value>Tendon of Grave Reaper</value>
+  </data>
+  <data name="customComboBox1.Items832" xml:space="preserve">
+    <value>Timing flow (Hell Hound)</value>
+  </data>
+  <data name="customComboBox1.Items833" xml:space="preserve">
+    <value>Timing flow (Meganthereon)</value>
+  </data>
+  <data name="customComboBox1.Items834" xml:space="preserve">
+    <value>Timing flow (Tyon)</value>
+  </data>
+  <data name="customComboBox1.Items835" xml:space="preserve">
+    <value>Tomahawk</value>
+  </data>
+  <data name="customComboBox1.Items836" xml:space="preserve">
+    <value>Torose Ring</value>
+  </data>
+  <data name="customComboBox1.Items837" xml:space="preserve">
+    <value>Totamic Club</value>
+  </data>
+  <data name="customComboBox1.Items838" xml:space="preserve">
+    <value>Totamic Spear</value>
+  </data>
+  <data name="customComboBox1.Items839" xml:space="preserve">
+    <value>Trethonz's Essence</value>
+  </data>
+  <data name="customComboBox1.Items840" xml:space="preserve">
+    <value>Troll Armor: Boots</value>
+  </data>
+  <data name="customComboBox1.Items841" xml:space="preserve">
+    <value>Troll Armor: Gauntlets</value>
+  </data>
+  <data name="customComboBox1.Items842" xml:space="preserve">
+    <value>Troll Armor: Helmet</value>
+  </data>
+  <data name="customComboBox1.Items843" xml:space="preserve">
+    <value>Troll Armor: Lower Garment</value>
+  </data>
+  <data name="customComboBox1.Items844" xml:space="preserve">
+    <value>Troll Armor: Upper Garment</value>
+  </data>
+  <data name="customComboBox1.Items845" xml:space="preserve">
+    <value>Trophy of bloody battle</value>
+  </data>
+  <data name="customComboBox1.Items846" xml:space="preserve">
+    <value>Trophy of flame</value>
+  </data>
+  <data name="customComboBox1.Items847" xml:space="preserve">
+    <value>True silver</value>
+  </data>
+  <data name="customComboBox1.Items848" xml:space="preserve">
+    <value>Two-handed Sword of selfname</value>
+  </data>
+  <data name="customComboBox1.Items849" xml:space="preserve">
+    <value>Unstable Kentaraus' Heart</value>
+  </data>
+  <data name="customComboBox1.Items850" xml:space="preserve">
+    <value>Urkthron's Essence</value>
+  </data>
+  <data name="customComboBox1.Items851" xml:space="preserve">
+    <value>Vein of Devil</value>
+  </data>
+  <data name="customComboBox1.Items852" xml:space="preserve">
+    <value>Vulture Hunting Bow</value>
+  </data>
+  <data name="customComboBox1.Items853" xml:space="preserve">
+    <value>Vulture Mace</value>
+  </data>
+  <data name="customComboBox1.Items854" xml:space="preserve">
+    <value>War Flash</value>
+  </data>
+  <data name="customComboBox1.Items855" xml:space="preserve">
+    <value>War Helmet</value>
+  </data>
+  <data name="customComboBox1.Items856" xml:space="preserve">
+    <value>War Tattoo</value>
+  </data>
+  <data name="customComboBox1.Items857" xml:space="preserve">
+    <value>Warrior Axe</value>
+  </data>
+  <data name="customComboBox1.Items858" xml:space="preserve">
+    <value>Warrior Earring</value>
+  </data>
+  <data name="customComboBox1.Items859" xml:space="preserve">
+    <value>Warrior Earring (quest)</value>
+  </data>
+  <data name="customComboBox1.Items860" xml:space="preserve">
+    <value>Warrior Pendant</value>
+  </data>
+  <data name="customComboBox1.Items861" xml:space="preserve">
+    <value>Warrior Pendant (quest)</value>
+  </data>
+  <data name="customComboBox1.Items862" xml:space="preserve">
+    <value>Weapon Breaker</value>
+  </data>
+  <data name="customComboBox1.Items863" xml:space="preserve">
+    <value>Weight Hammer</value>
+  </data>
+  <data name="customComboBox1.Items864" xml:space="preserve">
+    <value>White Dragon Necklace</value>
+  </data>
+  <data name="customComboBox1.Items865" xml:space="preserve">
+    <value>White-Silver Earring</value>
+  </data>
+  <data name="customComboBox1.Items866" xml:space="preserve">
+    <value>Windforce</value>
+  </data>
+  <data name="customComboBox1.Items867" xml:space="preserve">
+    <value>Wings of Devil</value>
+  </data>
+  <data name="customComboBox1.Items868" xml:space="preserve">
+    <value>Wirinom</value>
+  </data>
+  <data name="customComboBox1.Items869" xml:space="preserve">
+    <value>Wolf Slayer Shield</value>
+  </data>
+  <data name="customComboBox1.Items870" xml:space="preserve">
+    <value>Wolf Tail Staff</value>
+  </data>
+  <data name="customComboBox1.Items871" xml:space="preserve">
+    <value>Wood Cutter</value>
+  </data>
+  <data name="customComboBox1.Items872" xml:space="preserve">
+    <value>Wrath of Erenion</value>
+  </data>
+  <data name="customComboBox1.Items873" xml:space="preserve">
+    <value>Wrath of the Dragon</value>
+  </data>
+  <data name="customComboBox1.Items874" xml:space="preserve">
+    <value>Wrist Cutter</value>
+  </data>
+  <data name="customComboBox1.Items875" xml:space="preserve">
+    <value>Yellow Gem</value>
   </data>
   <data name="customComboBox1.Location" type="System.Drawing.Point, System.Drawing">
     <value>136, 85</value>
@@ -200,13 +2792,19 @@
     <value>$this</value>
   </data>
   <data name="&gt;&gt;customComboBox1.ZOrder" xml:space="preserve">
-    <value>4</value>
+    <value>9</value>
   </data>
   <data name="pictureBox1.Location" type="System.Drawing.Point, System.Drawing">
     <value>12, 85</value>
   </data>
+  <data name="pictureBox1.MaximumSize" type="System.Drawing.Size, System.Drawing">
+    <value>118, 97</value>
+  </data>
   <data name="pictureBox1.Size" type="System.Drawing.Size, System.Drawing">
     <value>118, 97</value>
+  </data>
+  <data name="pictureBox1.SizeMode" type="System.Windows.Forms.PictureBoxSizeMode, System.Windows.Forms">
+    <value>CenterImage</value>
   </data>
   <data name="pictureBox1.TabIndex" type="System.Int32, mscorlib">
     <value>7</value>
@@ -221,7 +2819,7 @@
     <value>$this</value>
   </data>
   <data name="&gt;&gt;pictureBox1.ZOrder" xml:space="preserve">
-    <value>3</value>
+    <value>8</value>
   </data>
   <data name="button5.Location" type="System.Drawing.Point, System.Drawing">
     <value>595, 4</value>
@@ -284,7 +2882,10 @@
     <value>$this</value>
   </data>
   <data name="&gt;&gt;panel1.ZOrder" xml:space="preserve">
-    <value>2</value>
+    <value>7</value>
+  </data>
+  <data name="customComboBox2.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Times New Roman, 11.25pt</value>
   </data>
   <data name="customComboBox2.Items" xml:space="preserve">
     <value>0</value>
@@ -329,7 +2930,7 @@
     <value>1, 1, 1, 1</value>
   </data>
   <data name="customComboBox2.Size" type="System.Drawing.Size, System.Drawing">
-    <value>200, 30</value>
+    <value>199, 29</value>
   </data>
   <data name="customComboBox2.TabIndex" type="System.Int32, mscorlib">
     <value>9</value>
@@ -344,7 +2945,7 @@
     <value>$this</value>
   </data>
   <data name="&gt;&gt;customComboBox2.ZOrder" xml:space="preserve">
-    <value>1</value>
+    <value>6</value>
   </data>
   <data name="label1.AutoSize" type="System.Boolean, mscorlib">
     <value>True</value>
@@ -374,6 +2975,162 @@
     <value>$this</value>
   </data>
   <data name="&gt;&gt;label1.ZOrder" xml:space="preserve">
+    <value>5</value>
+  </data>
+  <data name="label2.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="label2.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Yu Gothic UI, 12pt</value>
+  </data>
+  <data name="label2.Location" type="System.Drawing.Point, System.Drawing">
+    <value>136, 61</value>
+  </data>
+  <data name="label2.Size" type="System.Drawing.Size, System.Drawing">
+    <value>87, 21</value>
+  </data>
+  <data name="label2.TabIndex" type="System.Int32, mscorlib">
+    <value>11</value>
+  </data>
+  <data name="label2.Text" xml:space="preserve">
+    <value>Item Name</value>
+  </data>
+  <data name="&gt;&gt;label2.Name" xml:space="preserve">
+    <value>label2</value>
+  </data>
+  <data name="&gt;&gt;label2.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;label2.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;label2.ZOrder" xml:space="preserve">
+    <value>4</value>
+  </data>
+  <data name="label4.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="label4.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Yu Gothic UI, 12pt</value>
+  </data>
+  <data name="label4.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="label4.Location" type="System.Drawing.Point, System.Drawing">
+    <value>136, 128</value>
+  </data>
+  <data name="label4.Size" type="System.Drawing.Size, System.Drawing">
+    <value>61, 21</value>
+  </data>
+  <data name="label4.TabIndex" type="System.Int32, mscorlib">
+    <value>13</value>
+  </data>
+  <data name="label4.Text" xml:space="preserve">
+    <value>Feature</value>
+  </data>
+  <data name="&gt;&gt;label4.Name" xml:space="preserve">
+    <value>label4</value>
+  </data>
+  <data name="&gt;&gt;label4.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;label4.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;label4.ZOrder" xml:space="preserve">
+    <value>3</value>
+  </data>
+  <data name="label3.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="label3.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Yu Gothic UI, 12pt</value>
+  </data>
+  <data name="label3.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="label3.Location" type="System.Drawing.Point, System.Drawing">
+    <value>12, 185</value>
+  </data>
+  <data name="label3.Size" type="System.Drawing.Size, System.Drawing">
+    <value>44, 21</value>
+  </data>
+  <data name="label3.TabIndex" type="System.Int32, mscorlib">
+    <value>15</value>
+  </data>
+  <data name="label3.Text" xml:space="preserve">
+    <value>Price</value>
+  </data>
+  <data name="&gt;&gt;label3.Name" xml:space="preserve">
+    <value>label3</value>
+  </data>
+  <data name="&gt;&gt;label3.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;label3.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;label3.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="textBox1.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Times New Roman, 11.25pt</value>
+  </data>
+  <data name="textBox1.Location" type="System.Drawing.Point, System.Drawing">
+    <value>12, 209</value>
+  </data>
+  <data name="textBox1.Size" type="System.Drawing.Size, System.Drawing">
+    <value>118, 18</value>
+  </data>
+  <data name="textBox1.TabIndex" type="System.Int32, mscorlib">
+    <value>16</value>
+  </data>
+  <data name="textBox1.TextAlign" type="System.Windows.Forms.HorizontalAlignment, System.Windows.Forms">
+    <value>Center</value>
+  </data>
+  <data name="&gt;&gt;textBox1.Name" xml:space="preserve">
+    <value>textBox1</value>
+  </data>
+  <data name="&gt;&gt;textBox1.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;textBox1.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;textBox1.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="button6.AutoSizeMode" type="System.Windows.Forms.AutoSizeMode, System.Windows.Forms">
+    <value>GrowAndShrink</value>
+  </data>
+  <data name="button6.BackgroundImageLayout" type="System.Windows.Forms.ImageLayout, System.Windows.Forms">
+    <value>Center</value>
+  </data>
+  <data name="button6.FlatStyle" type="System.Windows.Forms.FlatStyle, System.Windows.Forms">
+    <value>Flat</value>
+  </data>
+  <data name="button6.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="button6.Location" type="System.Drawing.Point, System.Drawing">
+    <value>612, 560</value>
+  </data>
+  <data name="button6.Size" type="System.Drawing.Size, System.Drawing">
+    <value>32, 32</value>
+  </data>
+  <data name="button6.TabIndex" type="System.Int32, mscorlib">
+    <value>17</value>
+  </data>
+  <data name="&gt;&gt;button6.Name" xml:space="preserve">
+    <value>button6</value>
+  </data>
+  <data name="&gt;&gt;button6.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;button6.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;button6.ZOrder" xml:space="preserve">
     <value>0</value>
   </data>
   <metadata name="$this.Localizable" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
@@ -383,7 +3140,10 @@
     <value>7, 15</value>
   </data>
   <data name="$this.ClientSize" type="System.Drawing.Size, System.Drawing">
-    <value>650, 632</value>
+    <value>650, 604</value>
+  </data>
+  <data name="$this.StartPosition" type="System.Windows.Forms.FormStartPosition, System.Windows.Forms">
+    <value>CenterScreen</value>
   </data>
   <data name="$this.Text" xml:space="preserve">
     <value>TradeAsist</value>
