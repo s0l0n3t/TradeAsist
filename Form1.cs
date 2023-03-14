@@ -2,6 +2,9 @@ using System;
 using System.Data;
 using System.Data.SQLite;
 using System.Diagnostics;
+using System.Drawing;
+using System.Reflection.Metadata;
+using System.Runtime.Serialization;
 using static System.Net.WebRequestMethods;
 
 namespace TradeAsist
@@ -44,29 +47,44 @@ namespace TradeAsist
         SQLiteConnection Connector;
         SQLiteCommand User_Command;
         DataSet db_ds;
-        DataGridView data = new DataGridView();
         int Move_panel;
         int Move_X;
         int Move_Y;
         
         void GetTable()
-        {/*
+        {
+
             Connector = new SQLiteConnection("Data Source=MyDatabase.sqlite;Version=3;");
-            Adapter = new SQLiteDataAdapter("Select *From Test", Connector);
+            Adapter = new SQLiteDataAdapter("Select *From Item", Connector);
             db_ds = new DataSet();
             Connector.Open();
-            Adapter.Fill(db_ds, "Test");
-            data.DataSource = db_ds.Tables["Test"];
+            Adapter.Fill(db_ds  , "Item");
+            dataGridView1.DataSource = db_ds.Tables["Item"];
             Connector.Close();
-           */ 
+
 
         }
         private void Form1_Load(object sender, EventArgs e)
         {
-            
-        }
+            if (!System.IO.File.Exists("MyDatabase.sqlite"))
+            {
+                SQLiteConnection.CreateFile("MyDatabase.sqlite");
 
-        private void label1_Click(object sender, EventArgs e)
+                string sql = @"CREATE TABLE Item(
+                               ID INTEGER PRIMARY KEY AUTOINCREMENT ,
+                               FirstName           TEXT      NOT NULL,
+                               LastName            TEXT       NOT NULL
+                            );";
+                Connector = new SQLiteConnection("Data Source=MyDatabase.sqlite;Version=3;");
+                Connector.Open();
+                User_Command = new SQLiteCommand(sql, Connector);
+                User_Command.ExecuteNonQuery();
+                Connector.Close();
+                
+            }
+            GetTable();
+        }
+            private void label1_Click(object sender, EventArgs e)
         {
 
         }
@@ -160,5 +178,19 @@ Color.IndianRed, ButtonBorderStyle.Solid);
             };
             Process.Start(psi);
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            User_Command = new SQLiteCommand();
+            Connector.Open();
+            User_Command.Connection = Connector;
+            User_Command.CommandText = "insert into Item(Name,Feature,Price,Date,Time) values ('" + customComboBox1.SelectedItem+ "','" + customComboBox2.SelectedItem + "','" + textBox1.Text + "','" + DateTime.Now.ToShortDateString() + "','" + DateTime.Now.ToShortTimeString() + "')";
+            User_Command.ExecuteNonQuery();
+            Connector.Close();
+            GetTable();
+           
+            
+        }
     }
 }
+// DateTime.Now.ToShortTimeString()

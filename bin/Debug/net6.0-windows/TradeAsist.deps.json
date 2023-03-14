@@ -8,7 +8,10 @@
     ".NETCoreApp,Version=v6.0": {
       "TradeAsist/1.0.0": {
         "dependencies": {
-          "System.Data.SQLite": "1.0.117"
+          "System.Data.SQLite": "1.0.117",
+          "System.Data.SQLite.Core": "1.0.117",
+          "System.Data.SQLite.EF6": "1.0.117",
+          "System.Data.SQLite.Linq": "1.0.117"
         },
         "runtime": {
           "TradeAsist.dll": {}
@@ -167,6 +170,14 @@
           }
         }
       },
+      "System.Data.SQLite.Linq/1.0.117": {
+        "runtime": {
+          "lib/net46/System.Data.SQLite.Linq.dll": {
+            "assemblyVersion": "1.0.117.0",
+            "fileVersion": "1.0.117.0"
+          }
+        }
+      },
       "System.Drawing.Common/4.7.0": {
         "dependencies": {
           "Microsoft.NETCore.Platforms": "3.1.0",
@@ -318,6 +329,13 @@
       "sha512": "sha512-Q1y/Jz1K63okYr1Jea7DyNGrOyWJiOpPHdpJ9cbjWAJanKJ0RUAZ8HQHKy9oEdxfjv0kfPR+Up9QcWni8lryCQ==",
       "path": "system.data.sqlite.ef6/1.0.117",
       "hashPath": "system.data.sqlite.ef6.1.0.117.nupkg.sha512"
+    },
+    "System.Data.SQLite.Linq/1.0.117": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-n79RR22rVM+dkN6TF9QgbuLdJV+JKMmBaC5XE1HDcuXCy0n0Dq577DdaaWMwsAJc+8UNRrc2mNvxzTEoO0frNA==",
+      "path": "system.data.sqlite.linq/1.0.117",
+      "hashPath": "system.data.sqlite.linq.1.0.117.nupkg.sha512"
     },
     "System.Drawing.Common/4.7.0": {
       "type": "package",

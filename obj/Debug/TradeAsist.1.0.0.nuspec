@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>TradeAsist</id>
+    <version>1.0.0</version>
+    <authors>TradeAsist</authors>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework="net6.0-windows7.0">
+        <dependency id="System.Data.SQLite" version="1.0.117" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+    <frameworkReferences>
+      <group targetFramework="net6.0-windows7.0">
+        <frameworkReference name="Microsoft.WindowsDesktop.App.WindowsForms" />
+      </group>
+    </frameworkReferences>
+  </metadata>
+  <files>
+    <file src="C:\Users\weqwe\source\repos\TradeAsist\bin\Debug\net6.0-windows\TradeAsist.runtimeconfig.json" target="lib\net6.0-windows7.0\TradeAsist.runtimeconfig.json" />
+    <file src="C:\Users\weqwe\source\repos\TradeAsist\bin\Debug\net6.0-windows\TradeAsist.dll" target="lib\net6.0-windows7.0\TradeAsist.dll" />
+  </files>
+</package>

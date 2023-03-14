@@ -67,6 +67,7 @@
             this.button1.Image = global::TradeAsist.Properties.Resources.add_icon;
             this.button1.Name = "button1";
             this.button1.UseVisualStyleBackColor = false;
+            this.button1.Click += new System.EventHandler(this.button1_Click);
             // 
             // button2
             // 
