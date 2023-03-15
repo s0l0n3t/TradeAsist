@@ -53,27 +53,34 @@ namespace TradeAsist
         
         void GetTable()
         {
+            try
+            {
 
-            Connector = new SQLiteConnection("Data Source=MyDatabase.sqlite;Version=3;");
-            Adapter = new SQLiteDataAdapter("Select *From Item", Connector);
-            db_ds = new DataSet();
-            Connector.Open();
-            Adapter.Fill(db_ds  , "Item");
-            dataGridView1.DataSource = db_ds.Tables["Item"];
-            Connector.Close();
-
+                Connector = new SQLiteConnection("Data Source=MyDatabase.sqlite;Version=3;");
+                Adapter = new SQLiteDataAdapter("Select *From Item", Connector);
+                db_ds = new DataSet();
+                Connector.Open();
+                Adapter.Fill(db_ds, "Item");
+                dataGridView1.DataSource = db_ds.Tables["Item"];
+                Connector.Close();
+            }
+            catch { }
 
         }
         private void Form1_Load(object sender, EventArgs e)
         {
+            
             if (!System.IO.File.Exists("MyDatabase.sqlite"))
             {
                 SQLiteConnection.CreateFile("MyDatabase.sqlite");
 
                 string sql = @"CREATE TABLE Item(
-                               ID INTEGER PRIMARY KEY AUTOINCREMENT ,
-                               FirstName           TEXT      NOT NULL,
-                               LastName            TEXT       NOT NULL
+                               No INTEGER PRIMARY KEY AUTOINCREMENT ,
+                               Name           TEXT          NOT NULL,
+                               Feature        INTEGER       NOT NULL,
+                               Price          INTEGER       NOT NULL,
+                               Date           TEXT          NOT NULL,
+                               Time           TEXT          NOT NULL,
                             );";
                 Connector = new SQLiteConnection("Data Source=MyDatabase.sqlite;Version=3;");
                 Connector.Open();
@@ -83,10 +90,7 @@ namespace TradeAsist
                 
             }
             GetTable();
-        }
-            private void label1_Click(object sender, EventArgs e)
-        {
-
+            
         }
 
         private void button4_Click(object sender, EventArgs e)
@@ -169,6 +173,7 @@ Color.IndianRed, ButtonBorderStyle.Solid);
 
         private void button6_Click(object sender, EventArgs e)
         {
+            try { 
             ProcessStartInfo psi = new ProcessStartInfo
             {
                 FileName = "cmd.exe",
@@ -177,6 +182,11 @@ Color.IndianRed, ButtonBorderStyle.Solid);
                 CreateNoWindow = true
             };
             Process.Start(psi);
+            }
+            catch 
+            {
+                MessageBox.Show("Connection ", "ERROR", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+            }
         }
 
         private void button1_Click(object sender, EventArgs e)
@@ -191,6 +201,31 @@ Color.IndianRed, ButtonBorderStyle.Solid);
            
             
         }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            
+            try
+            {
+                User_Command = new SQLiteCommand();
+                Connector.Open();
+                User_Command.Connection = Connector;
+                User_Command.CommandText = "delete from Item where No=" + dataGridView1.CurrentRow.Cells[0].Value.ToString() + "";
+                User_Command.ExecuteNonQuery();
+                Connector.Close();
+                GetTable();
+            }
+            catch
+            {
+                //(NullReferenceException)
+                MessageBox.Show("You cannot delete null rows !","ERROR",MessageBoxButtons.OK,MessageBoxIcon.Warning);
+            }
+            
+            
+
+        }
+
+        
     }
 }
 // DateTime.Now.ToShortTimeString()
