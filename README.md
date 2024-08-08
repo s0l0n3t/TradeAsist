@@ -12,5 +12,5 @@ This repository contains items, its price, date and time. TradeAsist become your
 - **Feature**: This space contains between 1 and 10 numbers of item. The game have features about upgrade like +1,+2,+3.. until +10.
 - **Price**: This space must be filled as item price in million.
 
-## Used Libraries:
+## Used Tech:
 - **[SQLite](https://www.nuget.org/packages/Microsoft.Data.Sqlite)**: used sqlite for data storage. 
